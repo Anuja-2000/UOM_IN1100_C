@@ -1,0 +1,3 @@
+"D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Editor\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\lab5_ex2_q2.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\lab5_ex2_q2.dir/objects.a @CMakeFiles\lab5_ex2_q2.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\lab5_ex2_q2.dir/objects.a -Wl,--no-whole-archive -o lab5_ex2_q2.exe -Wl,--out-implib,liblab5_ex2_q2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lab5_ex2_q2.dir\linklibs.rsp
