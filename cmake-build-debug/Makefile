@@ -727,6 +727,19 @@ lab7q1g/fast:
 .PHONY : lab7q1g/fast
 
 #=============================================================================
+# Target rules for targets named lab10ex7sir
+
+# Build rule for target.
+lab10ex7sir: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab10ex7sir
+.PHONY : lab10ex7sir
+
+# fast build rule for target.
+lab10ex7sir/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7sir.dir\build.make CMakeFiles/lab10ex7sir.dir/build
+.PHONY : lab10ex7sir/fast
+
+#=============================================================================
 # Target rules for targets named lab7q1h
 
 # Build rule for target.
@@ -779,6 +792,19 @@ lab7q11/fast:
 .PHONY : lab7q11/fast
 
 #=============================================================================
+# Target rules for targets named SirTheorystructex1
+
+# Build rule for target.
+SirTheorystructex1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SirTheorystructex1
+.PHONY : SirTheorystructex1
+
+# fast build rule for target.
+SirTheorystructex1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructex1.dir\build.make CMakeFiles/SirTheorystructex1.dir/build
+.PHONY : SirTheorystructex1/fast
+
+#=============================================================================
 # Target rules for targets named lab7q12
 
 # Build rule for target.
@@ -829,6 +855,19 @@ array1: cmake_check_build_system
 array1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\array1.dir\build.make CMakeFiles/array1.dir/build
 .PHONY : array1/fast
+
+#=============================================================================
+# Target rules for targets named assignmentsharas
+
+# Build rule for target.
+assignmentsharas: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignmentsharas
+.PHONY : assignmentsharas
+
+# fast build rule for target.
+assignmentsharas/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentsharas.dir\build.make CMakeFiles/assignmentsharas.dir/build
+.PHONY : assignmentsharas/fast
 
 #=============================================================================
 # Target rules for targets named array2
@@ -1039,6 +1078,19 @@ akilasirTheory5/fast:
 .PHONY : akilasirTheory5/fast
 
 #=============================================================================
+# Target rules for targets named akilasirTheory6
+
+# Build rule for target.
+akilasirTheory6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 akilasirTheory6
+.PHONY : akilasirTheory6
+
+# fast build rule for target.
+akilasirTheory6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory6.dir\build.make CMakeFiles/akilasirTheory6.dir/build
+.PHONY : akilasirTheory6/fast
+
+#=============================================================================
 # Target rules for targets named lab10ex1
 
 # Build rule for target.
@@ -1117,6 +1169,19 @@ lab10ex6/fast:
 .PHONY : lab10ex6/fast
 
 #=============================================================================
+# Target rules for targets named lab10ex6sir
+
+# Build rule for target.
+lab10ex6sir: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab10ex6sir
+.PHONY : lab10ex6sir
+
+# fast build rule for target.
+lab10ex6sir/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6sir.dir\build.make CMakeFiles/lab10ex6sir.dir/build
+.PHONY : lab10ex6sir/fast
+
+#=============================================================================
 # Target rules for targets named lab10ex7
 
 # Build rule for target.
@@ -1128,6 +1193,240 @@ lab10ex7: cmake_check_build_system
 lab10ex7/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7.dir\build.make CMakeFiles/lab10ex7.dir/build
 .PHONY : lab10ex7/fast
+
+#=============================================================================
+# Target rules for targets named SirTheorystr1
+
+# Build rule for target.
+SirTheorystr1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SirTheorystr1
+.PHONY : SirTheorystr1
+
+# fast build rule for target.
+SirTheorystr1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystr1.dir\build.make CMakeFiles/SirTheorystr1.dir/build
+.PHONY : SirTheorystr1/fast
+
+#=============================================================================
+# Target rules for targets named lab11ex1
+
+# Build rule for target.
+lab11ex1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab11ex1
+.PHONY : lab11ex1
+
+# fast build rule for target.
+lab11ex1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex1.dir\build.make CMakeFiles/lab11ex1.dir/build
+.PHONY : lab11ex1/fast
+
+#=============================================================================
+# Target rules for targets named lab11ex2
+
+# Build rule for target.
+lab11ex2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab11ex2
+.PHONY : lab11ex2
+
+# fast build rule for target.
+lab11ex2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex2.dir\build.make CMakeFiles/lab11ex2.dir/build
+.PHONY : lab11ex2/fast
+
+#=============================================================================
+# Target rules for targets named lab11ex3
+
+# Build rule for target.
+lab11ex3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab11ex3
+.PHONY : lab11ex3
+
+# fast build rule for target.
+lab11ex3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex3.dir\build.make CMakeFiles/lab11ex3.dir/build
+.PHONY : lab11ex3/fast
+
+#=============================================================================
+# Target rules for targets named lab11ex4
+
+# Build rule for target.
+lab11ex4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab11ex4
+.PHONY : lab11ex4
+
+# fast build rule for target.
+lab11ex4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex4.dir\build.make CMakeFiles/lab11ex4.dir/build
+.PHONY : lab11ex4/fast
+
+#=============================================================================
+# Target rules for targets named lab11ex5
+
+# Build rule for target.
+lab11ex5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab11ex5
+.PHONY : lab11ex5
+
+# fast build rule for target.
+lab11ex5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex5.dir\build.make CMakeFiles/lab11ex5.dir/build
+.PHONY : lab11ex5/fast
+
+#=============================================================================
+# Target rules for targets named lab11ex6
+
+# Build rule for target.
+lab11ex6: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab11ex6
+.PHONY : lab11ex6
+
+# fast build rule for target.
+lab11ex6/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex6.dir\build.make CMakeFiles/lab11ex6.dir/build
+.PHONY : lab11ex6/fast
+
+#=============================================================================
+# Target rules for targets named lab12ex1
+
+# Build rule for target.
+lab12ex1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab12ex1
+.PHONY : lab12ex1
+
+# fast build rule for target.
+lab12ex1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex1.dir\build.make CMakeFiles/lab12ex1.dir/build
+.PHONY : lab12ex1/fast
+
+#=============================================================================
+# Target rules for targets named lab12ex2
+
+# Build rule for target.
+lab12ex2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab12ex2
+.PHONY : lab12ex2
+
+# fast build rule for target.
+lab12ex2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex2.dir\build.make CMakeFiles/lab12ex2.dir/build
+.PHONY : lab12ex2/fast
+
+#=============================================================================
+# Target rules for targets named lab12ex3
+
+# Build rule for target.
+lab12ex3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab12ex3
+.PHONY : lab12ex3
+
+# fast build rule for target.
+lab12ex3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex3.dir\build.make CMakeFiles/lab12ex3.dir/build
+.PHONY : lab12ex3/fast
+
+#=============================================================================
+# Target rules for targets named lab12ex4
+
+# Build rule for target.
+lab12ex4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab12ex4
+.PHONY : lab12ex4
+
+# fast build rule for target.
+lab12ex4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex4.dir\build.make CMakeFiles/lab12ex4.dir/build
+.PHONY : lab12ex4/fast
+
+#=============================================================================
+# Target rules for targets named lab12ex5
+
+# Build rule for target.
+lab12ex5: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab12ex5
+.PHONY : lab12ex5
+
+# fast build rule for target.
+lab12ex5/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex5.dir\build.make CMakeFiles/lab12ex5.dir/build
+.PHONY : lab12ex5/fast
+
+#=============================================================================
+# Target rules for targets named lab12UnionsExercise
+
+# Build rule for target.
+lab12UnionsExercise: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab12UnionsExercise
+.PHONY : lab12UnionsExercise
+
+# fast build rule for target.
+lab12UnionsExercise/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12UnionsExercise.dir\build.make CMakeFiles/lab12UnionsExercise.dir/build
+.PHONY : lab12UnionsExercise/fast
+
+#=============================================================================
+# Target rules for targets named SirTheorystructure1
+
+# Build rule for target.
+SirTheorystructure1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SirTheorystructure1
+.PHONY : SirTheorystructure1
+
+# fast build rule for target.
+SirTheorystructure1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructure1.dir\build.make CMakeFiles/SirTheorystructure1.dir/build
+.PHONY : SirTheorystructure1/fast
+
+#=============================================================================
+# Target rules for targets named SirTheoryunionex1
+
+# Build rule for target.
+SirTheoryunionex1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SirTheoryunionex1
+.PHONY : SirTheoryunionex1
+
+# fast build rule for target.
+SirTheoryunionex1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryunionex1.dir\build.make CMakeFiles/SirTheoryunionex1.dir/build
+.PHONY : SirTheoryunionex1/fast
+
+#=============================================================================
+# Target rules for targets named assignments
+
+# Build rule for target.
+assignments: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignments
+.PHONY : assignments
+
+# fast build rule for target.
+assignments/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignments.dir\build.make CMakeFiles/assignments.dir/build
+.PHONY : assignments/fast
+
+#=============================================================================
+# Target rules for targets named assignmentstest2
+
+# Build rule for target.
+assignmentstest2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignmentstest2
+.PHONY : assignmentstest2
+
+# fast build rule for target.
+assignmentstest2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/build
+.PHONY : assignmentstest2/fast
+
+#=============================================================================
+# Target rules for targets named assignmentstest3
+
+# Build rule for target.
+assignmentstest3: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignmentstest3
+.PHONY : assignmentstest3
+
+# fast build rule for target.
+assignmentstest3/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest3.dir\build.make CMakeFiles/assignmentstest3.dir/build
+.PHONY : assignmentstest3/fast
 
 Lab5Exercise2/lab5_ex2_q1.obj: Lab5Exercise2/lab5_ex2_q1.c.obj
 .PHONY : Lab5Exercise2/lab5_ex2_q1.obj
@@ -1489,6 +1788,102 @@ SirTheory/function1.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\function1.dir\build.make CMakeFiles/function1.dir/SirTheory/function1.c.s
 .PHONY : SirTheory/function1.c.s
 
+SirTheory/string1.obj: SirTheory/string1.c.obj
+.PHONY : SirTheory/string1.obj
+
+# target to build an object file
+SirTheory/string1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystr1.dir\build.make CMakeFiles/SirTheorystr1.dir/SirTheory/string1.c.obj
+.PHONY : SirTheory/string1.c.obj
+
+SirTheory/string1.i: SirTheory/string1.c.i
+.PHONY : SirTheory/string1.i
+
+# target to preprocess a source file
+SirTheory/string1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystr1.dir\build.make CMakeFiles/SirTheorystr1.dir/SirTheory/string1.c.i
+.PHONY : SirTheory/string1.c.i
+
+SirTheory/string1.s: SirTheory/string1.c.s
+.PHONY : SirTheory/string1.s
+
+# target to generate assembly for a file
+SirTheory/string1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystr1.dir\build.make CMakeFiles/SirTheorystr1.dir/SirTheory/string1.c.s
+.PHONY : SirTheory/string1.c.s
+
+SirTheory/structex1.obj: SirTheory/structex1.c.obj
+.PHONY : SirTheory/structex1.obj
+
+# target to build an object file
+SirTheory/structex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructex1.dir\build.make CMakeFiles/SirTheorystructex1.dir/SirTheory/structex1.c.obj
+.PHONY : SirTheory/structex1.c.obj
+
+SirTheory/structex1.i: SirTheory/structex1.c.i
+.PHONY : SirTheory/structex1.i
+
+# target to preprocess a source file
+SirTheory/structex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructex1.dir\build.make CMakeFiles/SirTheorystructex1.dir/SirTheory/structex1.c.i
+.PHONY : SirTheory/structex1.c.i
+
+SirTheory/structex1.s: SirTheory/structex1.c.s
+.PHONY : SirTheory/structex1.s
+
+# target to generate assembly for a file
+SirTheory/structex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructex1.dir\build.make CMakeFiles/SirTheorystructex1.dir/SirTheory/structex1.c.s
+.PHONY : SirTheory/structex1.c.s
+
+SirTheory/structure1.obj: SirTheory/structure1.c.obj
+.PHONY : SirTheory/structure1.obj
+
+# target to build an object file
+SirTheory/structure1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructure1.dir\build.make CMakeFiles/SirTheorystructure1.dir/SirTheory/structure1.c.obj
+.PHONY : SirTheory/structure1.c.obj
+
+SirTheory/structure1.i: SirTheory/structure1.c.i
+.PHONY : SirTheory/structure1.i
+
+# target to preprocess a source file
+SirTheory/structure1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructure1.dir\build.make CMakeFiles/SirTheorystructure1.dir/SirTheory/structure1.c.i
+.PHONY : SirTheory/structure1.c.i
+
+SirTheory/structure1.s: SirTheory/structure1.c.s
+.PHONY : SirTheory/structure1.s
+
+# target to generate assembly for a file
+SirTheory/structure1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructure1.dir\build.make CMakeFiles/SirTheorystructure1.dir/SirTheory/structure1.c.s
+.PHONY : SirTheory/structure1.c.s
+
+SirTheory/unionex1.obj: SirTheory/unionex1.c.obj
+.PHONY : SirTheory/unionex1.obj
+
+# target to build an object file
+SirTheory/unionex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryunionex1.dir\build.make CMakeFiles/SirTheoryunionex1.dir/SirTheory/unionex1.c.obj
+.PHONY : SirTheory/unionex1.c.obj
+
+SirTheory/unionex1.i: SirTheory/unionex1.c.i
+.PHONY : SirTheory/unionex1.i
+
+# target to preprocess a source file
+SirTheory/unionex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryunionex1.dir\build.make CMakeFiles/SirTheoryunionex1.dir/SirTheory/unionex1.c.i
+.PHONY : SirTheory/unionex1.c.i
+
+SirTheory/unionex1.s: SirTheory/unionex1.c.s
+.PHONY : SirTheory/unionex1.s
+
+# target to generate assembly for a file
+SirTheory/unionex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryunionex1.dir\build.make CMakeFiles/SirTheoryunionex1.dir/SirTheory/unionex1.c.s
+.PHONY : SirTheory/unionex1.c.s
+
 activitySheet4/ex1.obj: activitySheet4/ex1.c.obj
 .PHONY : activitySheet4/ex1.obj
 
@@ -1825,6 +2220,126 @@ akilasirTheory/gotoEx.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory3.dir\build.make CMakeFiles/akilasirTheory3.dir/akilasirTheory/gotoEx.c.s
 .PHONY : akilasirTheory/gotoEx.c.s
 
+akilasirTheory/structure1.obj: akilasirTheory/structure1.c.obj
+.PHONY : akilasirTheory/structure1.obj
+
+# target to build an object file
+akilasirTheory/structure1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory6.dir\build.make CMakeFiles/akilasirTheory6.dir/akilasirTheory/structure1.c.obj
+.PHONY : akilasirTheory/structure1.c.obj
+
+akilasirTheory/structure1.i: akilasirTheory/structure1.c.i
+.PHONY : akilasirTheory/structure1.i
+
+# target to preprocess a source file
+akilasirTheory/structure1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory6.dir\build.make CMakeFiles/akilasirTheory6.dir/akilasirTheory/structure1.c.i
+.PHONY : akilasirTheory/structure1.c.i
+
+akilasirTheory/structure1.s: akilasirTheory/structure1.c.s
+.PHONY : akilasirTheory/structure1.s
+
+# target to generate assembly for a file
+akilasirTheory/structure1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory6.dir\build.make CMakeFiles/akilasirTheory6.dir/akilasirTheory/structure1.c.s
+.PHONY : akilasirTheory/structure1.c.s
+
+assignments/204236M.obj: assignments/204236M.c.obj
+.PHONY : assignments/204236M.obj
+
+# target to build an object file
+assignments/204236M.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj
+.PHONY : assignments/204236M.c.obj
+
+assignments/204236M.i: assignments/204236M.c.i
+.PHONY : assignments/204236M.i
+
+# target to preprocess a source file
+assignments/204236M.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/204236M.c.i
+.PHONY : assignments/204236M.c.i
+
+assignments/204236M.s: assignments/204236M.c.s
+.PHONY : assignments/204236M.s
+
+# target to generate assembly for a file
+assignments/204236M.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/204236M.c.s
+.PHONY : assignments/204236M.c.s
+
+assignments/assignment1.obj: assignments/assignment1.c.obj
+.PHONY : assignments/assignment1.obj
+
+# target to build an object file
+assignments/assignment1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignments.dir\build.make CMakeFiles/assignments.dir/assignments/assignment1.c.obj
+.PHONY : assignments/assignment1.c.obj
+
+assignments/assignment1.i: assignments/assignment1.c.i
+.PHONY : assignments/assignment1.i
+
+# target to preprocess a source file
+assignments/assignment1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignments.dir\build.make CMakeFiles/assignments.dir/assignments/assignment1.c.i
+.PHONY : assignments/assignment1.c.i
+
+assignments/assignment1.s: assignments/assignment1.c.s
+.PHONY : assignments/assignment1.s
+
+# target to generate assembly for a file
+assignments/assignment1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignments.dir\build.make CMakeFiles/assignments.dir/assignments/assignment1.c.s
+.PHONY : assignments/assignment1.c.s
+
+assignments/harsagama.obj: assignments/harsagama.c.obj
+.PHONY : assignments/harsagama.obj
+
+# target to build an object file
+assignments/harsagama.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentsharas.dir\build.make CMakeFiles/assignmentsharas.dir/assignments/harsagama.c.obj
+.PHONY : assignments/harsagama.c.obj
+
+assignments/harsagama.i: assignments/harsagama.c.i
+.PHONY : assignments/harsagama.i
+
+# target to preprocess a source file
+assignments/harsagama.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentsharas.dir\build.make CMakeFiles/assignmentsharas.dir/assignments/harsagama.c.i
+.PHONY : assignments/harsagama.c.i
+
+assignments/harsagama.s: assignments/harsagama.c.s
+.PHONY : assignments/harsagama.s
+
+# target to generate assembly for a file
+assignments/harsagama.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentsharas.dir\build.make CMakeFiles/assignmentsharas.dir/assignments/harsagama.c.s
+.PHONY : assignments/harsagama.c.s
+
+assignments/test.obj: assignments/test.c.obj
+.PHONY : assignments/test.obj
+
+# target to build an object file
+assignments/test.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest3.dir\build.make CMakeFiles/assignmentstest3.dir/assignments/test.c.obj
+.PHONY : assignments/test.c.obj
+
+assignments/test.i: assignments/test.c.i
+.PHONY : assignments/test.i
+
+# target to preprocess a source file
+assignments/test.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest3.dir\build.make CMakeFiles/assignmentstest3.dir/assignments/test.c.i
+.PHONY : assignments/test.c.i
+
+assignments/test.s: assignments/test.c.s
+.PHONY : assignments/test.s
+
+# target to generate assembly for a file
+assignments/test.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest3.dir\build.make CMakeFiles/assignmentstest3.dir/assignments/test.c.s
+.PHONY : assignments/test.c.s
+
 lab10/ex1.obj: lab10/ex1.c.obj
 .PHONY : lab10/ex1.obj
 
@@ -1969,6 +2484,30 @@ lab10/ex6.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6.dir\build.make CMakeFiles/lab10ex6.dir/lab10/ex6.c.s
 .PHONY : lab10/ex6.c.s
 
+lab10/ex6Sir.obj: lab10/ex6Sir.c.obj
+.PHONY : lab10/ex6Sir.obj
+
+# target to build an object file
+lab10/ex6Sir.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6sir.dir\build.make CMakeFiles/lab10ex6sir.dir/lab10/ex6Sir.c.obj
+.PHONY : lab10/ex6Sir.c.obj
+
+lab10/ex6Sir.i: lab10/ex6Sir.c.i
+.PHONY : lab10/ex6Sir.i
+
+# target to preprocess a source file
+lab10/ex6Sir.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6sir.dir\build.make CMakeFiles/lab10ex6sir.dir/lab10/ex6Sir.c.i
+.PHONY : lab10/ex6Sir.c.i
+
+lab10/ex6Sir.s: lab10/ex6Sir.c.s
+.PHONY : lab10/ex6Sir.s
+
+# target to generate assembly for a file
+lab10/ex6Sir.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6sir.dir\build.make CMakeFiles/lab10ex6sir.dir/lab10/ex6Sir.c.s
+.PHONY : lab10/ex6Sir.c.s
+
 lab10/ex7.obj: lab10/ex7.c.obj
 .PHONY : lab10/ex7.obj
 
@@ -1992,6 +2531,318 @@ lab10/ex7.s: lab10/ex7.c.s
 lab10/ex7.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7.dir\build.make CMakeFiles/lab10ex7.dir/lab10/ex7.c.s
 .PHONY : lab10/ex7.c.s
+
+lab10/ex7Sir.obj: lab10/ex7Sir.c.obj
+.PHONY : lab10/ex7Sir.obj
+
+# target to build an object file
+lab10/ex7Sir.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7sir.dir\build.make CMakeFiles/lab10ex7sir.dir/lab10/ex7Sir.c.obj
+.PHONY : lab10/ex7Sir.c.obj
+
+lab10/ex7Sir.i: lab10/ex7Sir.c.i
+.PHONY : lab10/ex7Sir.i
+
+# target to preprocess a source file
+lab10/ex7Sir.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7sir.dir\build.make CMakeFiles/lab10ex7sir.dir/lab10/ex7Sir.c.i
+.PHONY : lab10/ex7Sir.c.i
+
+lab10/ex7Sir.s: lab10/ex7Sir.c.s
+.PHONY : lab10/ex7Sir.s
+
+# target to generate assembly for a file
+lab10/ex7Sir.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7sir.dir\build.make CMakeFiles/lab10ex7sir.dir/lab10/ex7Sir.c.s
+.PHONY : lab10/ex7Sir.c.s
+
+lab11/ex1.obj: lab11/ex1.c.obj
+.PHONY : lab11/ex1.obj
+
+# target to build an object file
+lab11/ex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex1.dir\build.make CMakeFiles/lab11ex1.dir/lab11/ex1.c.obj
+.PHONY : lab11/ex1.c.obj
+
+lab11/ex1.i: lab11/ex1.c.i
+.PHONY : lab11/ex1.i
+
+# target to preprocess a source file
+lab11/ex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex1.dir\build.make CMakeFiles/lab11ex1.dir/lab11/ex1.c.i
+.PHONY : lab11/ex1.c.i
+
+lab11/ex1.s: lab11/ex1.c.s
+.PHONY : lab11/ex1.s
+
+# target to generate assembly for a file
+lab11/ex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex1.dir\build.make CMakeFiles/lab11ex1.dir/lab11/ex1.c.s
+.PHONY : lab11/ex1.c.s
+
+lab11/ex2.obj: lab11/ex2.c.obj
+.PHONY : lab11/ex2.obj
+
+# target to build an object file
+lab11/ex2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex2.dir\build.make CMakeFiles/lab11ex2.dir/lab11/ex2.c.obj
+.PHONY : lab11/ex2.c.obj
+
+lab11/ex2.i: lab11/ex2.c.i
+.PHONY : lab11/ex2.i
+
+# target to preprocess a source file
+lab11/ex2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex2.dir\build.make CMakeFiles/lab11ex2.dir/lab11/ex2.c.i
+.PHONY : lab11/ex2.c.i
+
+lab11/ex2.s: lab11/ex2.c.s
+.PHONY : lab11/ex2.s
+
+# target to generate assembly for a file
+lab11/ex2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex2.dir\build.make CMakeFiles/lab11ex2.dir/lab11/ex2.c.s
+.PHONY : lab11/ex2.c.s
+
+lab11/ex3.obj: lab11/ex3.c.obj
+.PHONY : lab11/ex3.obj
+
+# target to build an object file
+lab11/ex3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex3.dir\build.make CMakeFiles/lab11ex3.dir/lab11/ex3.c.obj
+.PHONY : lab11/ex3.c.obj
+
+lab11/ex3.i: lab11/ex3.c.i
+.PHONY : lab11/ex3.i
+
+# target to preprocess a source file
+lab11/ex3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex3.dir\build.make CMakeFiles/lab11ex3.dir/lab11/ex3.c.i
+.PHONY : lab11/ex3.c.i
+
+lab11/ex3.s: lab11/ex3.c.s
+.PHONY : lab11/ex3.s
+
+# target to generate assembly for a file
+lab11/ex3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex3.dir\build.make CMakeFiles/lab11ex3.dir/lab11/ex3.c.s
+.PHONY : lab11/ex3.c.s
+
+lab11/ex4.obj: lab11/ex4.c.obj
+.PHONY : lab11/ex4.obj
+
+# target to build an object file
+lab11/ex4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex4.dir\build.make CMakeFiles/lab11ex4.dir/lab11/ex4.c.obj
+.PHONY : lab11/ex4.c.obj
+
+lab11/ex4.i: lab11/ex4.c.i
+.PHONY : lab11/ex4.i
+
+# target to preprocess a source file
+lab11/ex4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex4.dir\build.make CMakeFiles/lab11ex4.dir/lab11/ex4.c.i
+.PHONY : lab11/ex4.c.i
+
+lab11/ex4.s: lab11/ex4.c.s
+.PHONY : lab11/ex4.s
+
+# target to generate assembly for a file
+lab11/ex4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex4.dir\build.make CMakeFiles/lab11ex4.dir/lab11/ex4.c.s
+.PHONY : lab11/ex4.c.s
+
+lab11/ex5.obj: lab11/ex5.c.obj
+.PHONY : lab11/ex5.obj
+
+# target to build an object file
+lab11/ex5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex5.dir\build.make CMakeFiles/lab11ex5.dir/lab11/ex5.c.obj
+.PHONY : lab11/ex5.c.obj
+
+lab11/ex5.i: lab11/ex5.c.i
+.PHONY : lab11/ex5.i
+
+# target to preprocess a source file
+lab11/ex5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex5.dir\build.make CMakeFiles/lab11ex5.dir/lab11/ex5.c.i
+.PHONY : lab11/ex5.c.i
+
+lab11/ex5.s: lab11/ex5.c.s
+.PHONY : lab11/ex5.s
+
+# target to generate assembly for a file
+lab11/ex5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex5.dir\build.make CMakeFiles/lab11ex5.dir/lab11/ex5.c.s
+.PHONY : lab11/ex5.c.s
+
+lab11/ex6.obj: lab11/ex6.c.obj
+.PHONY : lab11/ex6.obj
+
+# target to build an object file
+lab11/ex6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex6.dir\build.make CMakeFiles/lab11ex6.dir/lab11/ex6.c.obj
+.PHONY : lab11/ex6.c.obj
+
+lab11/ex6.i: lab11/ex6.c.i
+.PHONY : lab11/ex6.i
+
+# target to preprocess a source file
+lab11/ex6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex6.dir\build.make CMakeFiles/lab11ex6.dir/lab11/ex6.c.i
+.PHONY : lab11/ex6.c.i
+
+lab11/ex6.s: lab11/ex6.c.s
+.PHONY : lab11/ex6.s
+
+# target to generate assembly for a file
+lab11/ex6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex6.dir\build.make CMakeFiles/lab11ex6.dir/lab11/ex6.c.s
+.PHONY : lab11/ex6.c.s
+
+lab12/ex1.obj: lab12/ex1.c.obj
+.PHONY : lab12/ex1.obj
+
+# target to build an object file
+lab12/ex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex1.dir\build.make CMakeFiles/lab12ex1.dir/lab12/ex1.c.obj
+.PHONY : lab12/ex1.c.obj
+
+lab12/ex1.i: lab12/ex1.c.i
+.PHONY : lab12/ex1.i
+
+# target to preprocess a source file
+lab12/ex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex1.dir\build.make CMakeFiles/lab12ex1.dir/lab12/ex1.c.i
+.PHONY : lab12/ex1.c.i
+
+lab12/ex1.s: lab12/ex1.c.s
+.PHONY : lab12/ex1.s
+
+# target to generate assembly for a file
+lab12/ex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex1.dir\build.make CMakeFiles/lab12ex1.dir/lab12/ex1.c.s
+.PHONY : lab12/ex1.c.s
+
+lab12/ex2.obj: lab12/ex2.c.obj
+.PHONY : lab12/ex2.obj
+
+# target to build an object file
+lab12/ex2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex2.dir\build.make CMakeFiles/lab12ex2.dir/lab12/ex2.c.obj
+.PHONY : lab12/ex2.c.obj
+
+lab12/ex2.i: lab12/ex2.c.i
+.PHONY : lab12/ex2.i
+
+# target to preprocess a source file
+lab12/ex2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex2.dir\build.make CMakeFiles/lab12ex2.dir/lab12/ex2.c.i
+.PHONY : lab12/ex2.c.i
+
+lab12/ex2.s: lab12/ex2.c.s
+.PHONY : lab12/ex2.s
+
+# target to generate assembly for a file
+lab12/ex2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex2.dir\build.make CMakeFiles/lab12ex2.dir/lab12/ex2.c.s
+.PHONY : lab12/ex2.c.s
+
+lab12/ex3.obj: lab12/ex3.c.obj
+.PHONY : lab12/ex3.obj
+
+# target to build an object file
+lab12/ex3.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex3.dir\build.make CMakeFiles/lab12ex3.dir/lab12/ex3.c.obj
+.PHONY : lab12/ex3.c.obj
+
+lab12/ex3.i: lab12/ex3.c.i
+.PHONY : lab12/ex3.i
+
+# target to preprocess a source file
+lab12/ex3.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex3.dir\build.make CMakeFiles/lab12ex3.dir/lab12/ex3.c.i
+.PHONY : lab12/ex3.c.i
+
+lab12/ex3.s: lab12/ex3.c.s
+.PHONY : lab12/ex3.s
+
+# target to generate assembly for a file
+lab12/ex3.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex3.dir\build.make CMakeFiles/lab12ex3.dir/lab12/ex3.c.s
+.PHONY : lab12/ex3.c.s
+
+lab12/ex4.obj: lab12/ex4.c.obj
+.PHONY : lab12/ex4.obj
+
+# target to build an object file
+lab12/ex4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex4.dir\build.make CMakeFiles/lab12ex4.dir/lab12/ex4.c.obj
+.PHONY : lab12/ex4.c.obj
+
+lab12/ex4.i: lab12/ex4.c.i
+.PHONY : lab12/ex4.i
+
+# target to preprocess a source file
+lab12/ex4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex4.dir\build.make CMakeFiles/lab12ex4.dir/lab12/ex4.c.i
+.PHONY : lab12/ex4.c.i
+
+lab12/ex4.s: lab12/ex4.c.s
+.PHONY : lab12/ex4.s
+
+# target to generate assembly for a file
+lab12/ex4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex4.dir\build.make CMakeFiles/lab12ex4.dir/lab12/ex4.c.s
+.PHONY : lab12/ex4.c.s
+
+lab12/ex5.obj: lab12/ex5.c.obj
+.PHONY : lab12/ex5.obj
+
+# target to build an object file
+lab12/ex5.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex5.dir\build.make CMakeFiles/lab12ex5.dir/lab12/ex5.c.obj
+.PHONY : lab12/ex5.c.obj
+
+lab12/ex5.i: lab12/ex5.c.i
+.PHONY : lab12/ex5.i
+
+# target to preprocess a source file
+lab12/ex5.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex5.dir\build.make CMakeFiles/lab12ex5.dir/lab12/ex5.c.i
+.PHONY : lab12/ex5.c.i
+
+lab12/ex5.s: lab12/ex5.c.s
+.PHONY : lab12/ex5.s
+
+# target to generate assembly for a file
+lab12/ex5.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex5.dir\build.make CMakeFiles/lab12ex5.dir/lab12/ex5.c.s
+.PHONY : lab12/ex5.c.s
+
+lab12/unionsExercise.obj: lab12/unionsExercise.c.obj
+.PHONY : lab12/unionsExercise.obj
+
+# target to build an object file
+lab12/unionsExercise.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12UnionsExercise.dir\build.make CMakeFiles/lab12UnionsExercise.dir/lab12/unionsExercise.c.obj
+.PHONY : lab12/unionsExercise.c.obj
+
+lab12/unionsExercise.i: lab12/unionsExercise.c.i
+.PHONY : lab12/unionsExercise.i
+
+# target to preprocess a source file
+lab12/unionsExercise.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12UnionsExercise.dir\build.make CMakeFiles/lab12UnionsExercise.dir/lab12/unionsExercise.c.i
+.PHONY : lab12/unionsExercise.c.i
+
+lab12/unionsExercise.s: lab12/unionsExercise.c.s
+.PHONY : lab12/unionsExercise.s
+
+# target to generate assembly for a file
+lab12/unionsExercise.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12UnionsExercise.dir\build.make CMakeFiles/lab12UnionsExercise.dir/lab12/unionsExercise.c.s
+.PHONY : lab12/unionsExercise.c.s
 
 lab6/lab6_q3.obj: lab6/lab6_q3.c.obj
 .PHONY : lab6/lab6_q3.obj
@@ -3011,6 +3862,10 @@ help:
 	@echo ... rebuild_cache
 	@echo ... 2darray1
 	@echo ... 2darray2
+	@echo ... SirTheorystr1
+	@echo ... SirTheorystructex1
+	@echo ... SirTheorystructure1
+	@echo ... SirTheoryunionex1
 	@echo ... activitySheet4ex1
 	@echo ... activitySheet4ex2
 	@echo ... activitySheet4ex3
@@ -3025,8 +3880,13 @@ help:
 	@echo ... akilasirTheory3
 	@echo ... akilasirTheory4
 	@echo ... akilasirTheory5
+	@echo ... akilasirTheory6
 	@echo ... array1
 	@echo ... array2
+	@echo ... assignments
+	@echo ... assignmentsharas
+	@echo ... assignmentstest2
+	@echo ... assignmentstest3
 	@echo ... function1
 	@echo ... lab10ex1
 	@echo ... lab10ex2
@@ -3034,7 +3894,21 @@ help:
 	@echo ... lab10ex4
 	@echo ... lab10ex5
 	@echo ... lab10ex6
+	@echo ... lab10ex6sir
 	@echo ... lab10ex7
+	@echo ... lab10ex7sir
+	@echo ... lab11ex1
+	@echo ... lab11ex2
+	@echo ... lab11ex3
+	@echo ... lab11ex4
+	@echo ... lab11ex5
+	@echo ... lab11ex6
+	@echo ... lab12UnionsExercise
+	@echo ... lab12ex1
+	@echo ... lab12ex2
+	@echo ... lab12ex3
+	@echo ... lab12ex4
+	@echo ... lab12ex5
 	@echo ... lab5_ex2_q1
 	@echo ... lab5_ex2_q2
 	@echo ... lab5_ex2_q3
@@ -3132,6 +4006,18 @@ help:
 	@echo ... SirTheory/function1.obj
 	@echo ... SirTheory/function1.i
 	@echo ... SirTheory/function1.s
+	@echo ... SirTheory/string1.obj
+	@echo ... SirTheory/string1.i
+	@echo ... SirTheory/string1.s
+	@echo ... SirTheory/structex1.obj
+	@echo ... SirTheory/structex1.i
+	@echo ... SirTheory/structex1.s
+	@echo ... SirTheory/structure1.obj
+	@echo ... SirTheory/structure1.i
+	@echo ... SirTheory/structure1.s
+	@echo ... SirTheory/unionex1.obj
+	@echo ... SirTheory/unionex1.i
+	@echo ... SirTheory/unionex1.s
 	@echo ... activitySheet4/ex1.obj
 	@echo ... activitySheet4/ex1.i
 	@echo ... activitySheet4/ex1.s
@@ -3174,6 +4060,21 @@ help:
 	@echo ... akilasirTheory/gotoEx.obj
 	@echo ... akilasirTheory/gotoEx.i
 	@echo ... akilasirTheory/gotoEx.s
+	@echo ... akilasirTheory/structure1.obj
+	@echo ... akilasirTheory/structure1.i
+	@echo ... akilasirTheory/structure1.s
+	@echo ... assignments/204236M.obj
+	@echo ... assignments/204236M.i
+	@echo ... assignments/204236M.s
+	@echo ... assignments/assignment1.obj
+	@echo ... assignments/assignment1.i
+	@echo ... assignments/assignment1.s
+	@echo ... assignments/harsagama.obj
+	@echo ... assignments/harsagama.i
+	@echo ... assignments/harsagama.s
+	@echo ... assignments/test.obj
+	@echo ... assignments/test.i
+	@echo ... assignments/test.s
 	@echo ... lab10/ex1.obj
 	@echo ... lab10/ex1.i
 	@echo ... lab10/ex1.s
@@ -3192,9 +4093,51 @@ help:
 	@echo ... lab10/ex6.obj
 	@echo ... lab10/ex6.i
 	@echo ... lab10/ex6.s
+	@echo ... lab10/ex6Sir.obj
+	@echo ... lab10/ex6Sir.i
+	@echo ... lab10/ex6Sir.s
 	@echo ... lab10/ex7.obj
 	@echo ... lab10/ex7.i
 	@echo ... lab10/ex7.s
+	@echo ... lab10/ex7Sir.obj
+	@echo ... lab10/ex7Sir.i
+	@echo ... lab10/ex7Sir.s
+	@echo ... lab11/ex1.obj
+	@echo ... lab11/ex1.i
+	@echo ... lab11/ex1.s
+	@echo ... lab11/ex2.obj
+	@echo ... lab11/ex2.i
+	@echo ... lab11/ex2.s
+	@echo ... lab11/ex3.obj
+	@echo ... lab11/ex3.i
+	@echo ... lab11/ex3.s
+	@echo ... lab11/ex4.obj
+	@echo ... lab11/ex4.i
+	@echo ... lab11/ex4.s
+	@echo ... lab11/ex5.obj
+	@echo ... lab11/ex5.i
+	@echo ... lab11/ex5.s
+	@echo ... lab11/ex6.obj
+	@echo ... lab11/ex6.i
+	@echo ... lab11/ex6.s
+	@echo ... lab12/ex1.obj
+	@echo ... lab12/ex1.i
+	@echo ... lab12/ex1.s
+	@echo ... lab12/ex2.obj
+	@echo ... lab12/ex2.i
+	@echo ... lab12/ex2.s
+	@echo ... lab12/ex3.obj
+	@echo ... lab12/ex3.i
+	@echo ... lab12/ex3.s
+	@echo ... lab12/ex4.obj
+	@echo ... lab12/ex4.i
+	@echo ... lab12/ex4.s
+	@echo ... lab12/ex5.obj
+	@echo ... lab12/ex5.i
+	@echo ... lab12/ex5.s
+	@echo ... lab12/unionsExercise.obj
+	@echo ... lab12/unionsExercise.i
+	@echo ... lab12/unionsExercise.s
 	@echo ... lab6/lab6_q3.obj
 	@echo ... lab6/lab6_q3.i
 	@echo ... lab6/lab6_q3.s

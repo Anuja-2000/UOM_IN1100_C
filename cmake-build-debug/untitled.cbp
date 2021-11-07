@@ -1803,6 +1803,44 @@
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="lab10ex7sir">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab10ex7sir.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab10ex7sir"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab10ex7sir/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab10ex7sir.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab10ex7sir/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="lab7q1h">
 				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab7q1h.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
@@ -1955,6 +1993,44 @@
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="SirTheorystructex1">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/SirTheorystructex1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 SirTheorystructex1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SirTheorystructex1/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/SirTheorystructex1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 SirTheorystructex1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="lab7q12">
 				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab7q12.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
@@ -2102,6 +2178,44 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 array1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignmentsharas">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/assignmentsharas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignmentsharas"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignmentsharas/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/assignmentsharas.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignmentsharas/fast"/>
 					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -2715,6 +2829,44 @@
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="akilasirTheory6">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/akilasirTheory6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 akilasirTheory6"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="akilasirTheory6/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/akilasirTheory6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 akilasirTheory6/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="lab10ex1">
 				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab10ex1.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
@@ -2943,6 +3095,44 @@
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="lab10ex6sir">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab10ex6sir.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab10ex6sir"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab10ex6sir/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab10ex6sir.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab10ex6sir/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="lab10ex7">
 				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab10ex7.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
@@ -2976,6 +3166,690 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab10ex7/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SirTheorystr1">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/SirTheorystr1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 SirTheorystr1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SirTheorystr1/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/SirTheorystr1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 SirTheorystr1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex1">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex1/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex2">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex2/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex3">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex3/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex3/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex4">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex4"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex4/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex4/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex5">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex5"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex5/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex5/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex6">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex6"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab11ex6/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab11ex6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab11ex6/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex1">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex1/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex2">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex2/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex3">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex3/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex3/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex4">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex4"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex4/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex4/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex5">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex5"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12ex5/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12ex5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12ex5/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12UnionsExercise">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12UnionsExercise.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12UnionsExercise"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lab12UnionsExercise/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/lab12UnionsExercise.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 lab12UnionsExercise/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SirTheorystructure1">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/SirTheorystructure1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 SirTheorystructure1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SirTheorystructure1/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/SirTheorystructure1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 SirTheorystructure1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SirTheoryunionex1">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/SirTheoryunionex1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 SirTheoryunionex1"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SirTheoryunionex1/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/SirTheoryunionex1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 SirTheoryunionex1/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignments">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/assignments.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignments"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignments/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/assignments.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignments/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignmentstest2">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/assignmentstest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignmentstest2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignmentstest2/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/assignmentstest2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignmentstest2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignmentstest3">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/assignmentstest3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignmentstest3"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignmentstest3/fast">
+				<Option output="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/assignmentstest3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignmentstest3/fast"/>
 					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -3047,6 +3921,18 @@
 		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/SirTheory/function1.c">
 			<Option target="function1"/>
 		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/SirTheory/string1.c">
+			<Option target="SirTheorystr1"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/SirTheory/structex1.c">
+			<Option target="SirTheorystructex1"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/SirTheory/structure1.c">
+			<Option target="SirTheorystructure1"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/SirTheory/unionex1.c">
+			<Option target="SirTheoryunionex1"/>
+		</Unit>
 		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/activitySheet4/ex1.c">
 			<Option target="activitySheet4ex1"/>
 		</Unit>
@@ -3089,6 +3975,21 @@
 		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/akilasirTheory/gotoEx.c">
 			<Option target="akilasirTheory3"/>
 		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/akilasirTheory/structure1.c">
+			<Option target="akilasirTheory6"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/assignments/204236M.c">
+			<Option target="assignmentstest2"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/assignments/assignment1.c">
+			<Option target="assignments"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/assignments/harsagama.c">
+			<Option target="assignmentsharas"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/assignments/test.c">
+			<Option target="assignmentstest3"/>
+		</Unit>
 		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab10/ex1.c">
 			<Option target="lab10ex1"/>
 		</Unit>
@@ -3107,8 +4008,50 @@
 		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab10/ex6.c">
 			<Option target="lab10ex6"/>
 		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab10/ex6Sir.c">
+			<Option target="lab10ex6sir"/>
+		</Unit>
 		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab10/ex7.c">
 			<Option target="lab10ex7"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab10/ex7Sir.c">
+			<Option target="lab10ex7sir"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab11/ex1.c">
+			<Option target="lab11ex1"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab11/ex2.c">
+			<Option target="lab11ex2"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab11/ex3.c">
+			<Option target="lab11ex3"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab11/ex4.c">
+			<Option target="lab11ex4"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab11/ex5.c">
+			<Option target="lab11ex5"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab11/ex6.c">
+			<Option target="lab11ex6"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab12/ex1.c">
+			<Option target="lab12ex1"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab12/ex2.c">
+			<Option target="lab12ex2"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab12/ex3.c">
+			<Option target="lab12ex3"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab12/ex4.c">
+			<Option target="lab12ex4"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab12/ex5.c">
+			<Option target="lab12ex5"/>
+		</Unit>
+		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab12/unionsExercise.c">
+			<Option target="lab12UnionsExercise"/>
 		</Unit>
 		<Unit filename="D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab6/lab6_q3.c">
 			<Option target="lab6q3"/>

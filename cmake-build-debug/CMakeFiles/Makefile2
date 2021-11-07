@@ -109,14 +109,17 @@ all: CMakeFiles/lab7q6d.dir/all
 all: CMakeFiles/lab7q1e.dir/all
 all: CMakeFiles/lab7q1f.dir/all
 all: CMakeFiles/lab7q1g.dir/all
+all: CMakeFiles/lab10ex7sir.dir/all
 all: CMakeFiles/lab7q1h.dir/all
 all: CMakeFiles/lab7q6a.dir/all
 all: CMakeFiles/lab7q10.dir/all
 all: CMakeFiles/lab7q11.dir/all
+all: CMakeFiles/SirTheorystructex1.dir/all
 all: CMakeFiles/lab7q12.dir/all
 all: CMakeFiles/lab7q17.dir/all
 all: CMakeFiles/lab7q18.dir/all
 all: CMakeFiles/array1.dir/all
+all: CMakeFiles/assignmentsharas.dir/all
 all: CMakeFiles/array2.dir/all
 all: CMakeFiles/activitySheet5ex2.dir/all
 all: CMakeFiles/activitySheet6ex2.dir/all
@@ -133,13 +136,33 @@ all: CMakeFiles/akilasirTheory1.dir/all
 all: CMakeFiles/akilasirTheory3.dir/all
 all: CMakeFiles/akilasirTheory4.dir/all
 all: CMakeFiles/akilasirTheory5.dir/all
+all: CMakeFiles/akilasirTheory6.dir/all
 all: CMakeFiles/lab10ex1.dir/all
 all: CMakeFiles/lab10ex2.dir/all
 all: CMakeFiles/lab10ex3.dir/all
 all: CMakeFiles/lab10ex4.dir/all
 all: CMakeFiles/lab10ex5.dir/all
 all: CMakeFiles/lab10ex6.dir/all
+all: CMakeFiles/lab10ex6sir.dir/all
 all: CMakeFiles/lab10ex7.dir/all
+all: CMakeFiles/SirTheorystr1.dir/all
+all: CMakeFiles/lab11ex1.dir/all
+all: CMakeFiles/lab11ex2.dir/all
+all: CMakeFiles/lab11ex3.dir/all
+all: CMakeFiles/lab11ex4.dir/all
+all: CMakeFiles/lab11ex5.dir/all
+all: CMakeFiles/lab11ex6.dir/all
+all: CMakeFiles/lab12ex1.dir/all
+all: CMakeFiles/lab12ex2.dir/all
+all: CMakeFiles/lab12ex3.dir/all
+all: CMakeFiles/lab12ex4.dir/all
+all: CMakeFiles/lab12ex5.dir/all
+all: CMakeFiles/lab12UnionsExercise.dir/all
+all: CMakeFiles/SirTheorystructure1.dir/all
+all: CMakeFiles/SirTheoryunionex1.dir/all
+all: CMakeFiles/assignments.dir/all
+all: CMakeFiles/assignmentstest2.dir/all
+all: CMakeFiles/assignmentstest3.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -194,14 +217,17 @@ clean: CMakeFiles/lab7q6d.dir/clean
 clean: CMakeFiles/lab7q1e.dir/clean
 clean: CMakeFiles/lab7q1f.dir/clean
 clean: CMakeFiles/lab7q1g.dir/clean
+clean: CMakeFiles/lab10ex7sir.dir/clean
 clean: CMakeFiles/lab7q1h.dir/clean
 clean: CMakeFiles/lab7q6a.dir/clean
 clean: CMakeFiles/lab7q10.dir/clean
 clean: CMakeFiles/lab7q11.dir/clean
+clean: CMakeFiles/SirTheorystructex1.dir/clean
 clean: CMakeFiles/lab7q12.dir/clean
 clean: CMakeFiles/lab7q17.dir/clean
 clean: CMakeFiles/lab7q18.dir/clean
 clean: CMakeFiles/array1.dir/clean
+clean: CMakeFiles/assignmentsharas.dir/clean
 clean: CMakeFiles/array2.dir/clean
 clean: CMakeFiles/activitySheet5ex2.dir/clean
 clean: CMakeFiles/activitySheet6ex2.dir/clean
@@ -218,13 +244,33 @@ clean: CMakeFiles/akilasirTheory1.dir/clean
 clean: CMakeFiles/akilasirTheory3.dir/clean
 clean: CMakeFiles/akilasirTheory4.dir/clean
 clean: CMakeFiles/akilasirTheory5.dir/clean
+clean: CMakeFiles/akilasirTheory6.dir/clean
 clean: CMakeFiles/lab10ex1.dir/clean
 clean: CMakeFiles/lab10ex2.dir/clean
 clean: CMakeFiles/lab10ex3.dir/clean
 clean: CMakeFiles/lab10ex4.dir/clean
 clean: CMakeFiles/lab10ex5.dir/clean
 clean: CMakeFiles/lab10ex6.dir/clean
+clean: CMakeFiles/lab10ex6sir.dir/clean
 clean: CMakeFiles/lab10ex7.dir/clean
+clean: CMakeFiles/SirTheorystr1.dir/clean
+clean: CMakeFiles/lab11ex1.dir/clean
+clean: CMakeFiles/lab11ex2.dir/clean
+clean: CMakeFiles/lab11ex3.dir/clean
+clean: CMakeFiles/lab11ex4.dir/clean
+clean: CMakeFiles/lab11ex5.dir/clean
+clean: CMakeFiles/lab11ex6.dir/clean
+clean: CMakeFiles/lab12ex1.dir/clean
+clean: CMakeFiles/lab12ex2.dir/clean
+clean: CMakeFiles/lab12ex3.dir/clean
+clean: CMakeFiles/lab12ex4.dir/clean
+clean: CMakeFiles/lab12ex5.dir/clean
+clean: CMakeFiles/lab12UnionsExercise.dir/clean
+clean: CMakeFiles/SirTheorystructure1.dir/clean
+clean: CMakeFiles/SirTheoryunionex1.dir/clean
+clean: CMakeFiles/assignments.dir/clean
+clean: CMakeFiles/assignmentstest2.dir/clean
+clean: CMakeFiles/assignmentstest3.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -234,12 +280,12 @@ clean: CMakeFiles/lab10ex7.dir/clean
 CMakeFiles/untitled.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled.dir\build.make CMakeFiles/untitled.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=99,100 "Built target untitled"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=100 "Built target untitled"
 .PHONY : CMakeFiles/untitled.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/untitled.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/untitled.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/untitled.dir/rule
@@ -260,7 +306,7 @@ CMakeFiles/untitled.dir/clean:
 CMakeFiles/lab5_ex2_q1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q1.dir\build.make CMakeFiles/lab5_ex2_q1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q1.dir\build.make CMakeFiles/lab5_ex2_q1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=34 "Built target lab5_ex2_q1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=49 "Built target lab5_ex2_q1"
 .PHONY : CMakeFiles/lab5_ex2_q1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -286,12 +332,12 @@ CMakeFiles/lab5_ex2_q1.dir/clean:
 CMakeFiles/lab7q3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q3.dir\build.make CMakeFiles/lab7q3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q3.dir\build.make CMakeFiles/lab7q3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=77,78 "Built target lab7q3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=83 "Built target lab7q3"
 .PHONY : CMakeFiles/lab7q3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab7q3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab7q3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab7q3.dir/rule
@@ -312,7 +358,7 @@ CMakeFiles/lab7q3.dir/clean:
 CMakeFiles/lab5_ex2_q2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q2.dir\build.make CMakeFiles/lab5_ex2_q2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q2.dir\build.make CMakeFiles/lab5_ex2_q2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=35 "Built target lab5_ex2_q2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=50 "Built target lab5_ex2_q2"
 .PHONY : CMakeFiles/lab5_ex2_q2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -338,7 +384,7 @@ CMakeFiles/lab5_ex2_q2.dir/clean:
 CMakeFiles/lab7q5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q5.dir\build.make CMakeFiles/lab7q5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q5.dir\build.make CMakeFiles/lab7q5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=80 "Built target lab7q5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=85 "Built target lab7q5"
 .PHONY : CMakeFiles/lab7q5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -364,7 +410,7 @@ CMakeFiles/lab7q5.dir/clean:
 CMakeFiles/lab5_ex2_q4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q4.dir\build.make CMakeFiles/lab5_ex2_q4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q4.dir\build.make CMakeFiles/lab5_ex2_q4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=38 "Built target lab5_ex2_q4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=52 "Built target lab5_ex2_q4"
 .PHONY : CMakeFiles/lab5_ex2_q4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -390,12 +436,12 @@ CMakeFiles/lab5_ex2_q4.dir/clean:
 CMakeFiles/lab5_ex2_q6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q6.dir\build.make CMakeFiles/lab5_ex2_q6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q6.dir\build.make CMakeFiles/lab5_ex2_q6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=40,41 "Built target lab5_ex2_q6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=54 "Built target lab5_ex2_q6"
 .PHONY : CMakeFiles/lab5_ex2_q6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab5_ex2_q6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab5_ex2_q6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab5_ex2_q6.dir/rule
@@ -416,7 +462,7 @@ CMakeFiles/lab5_ex2_q6.dir/clean:
 CMakeFiles/activitySheet5ex4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet5ex4.dir\build.make CMakeFiles/activitySheet5ex4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet5ex4.dir\build.make CMakeFiles/activitySheet5ex4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=8 "Built target activitySheet5ex4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=10 "Built target activitySheet5ex4"
 .PHONY : CMakeFiles/activitySheet5ex4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -442,12 +488,12 @@ CMakeFiles/activitySheet5ex4.dir/clean:
 CMakeFiles/lab7q7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q7.dir\build.make CMakeFiles/lab7q7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q7.dir\build.make CMakeFiles/lab7q7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=86,87 "Built target lab7q7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=90 "Built target lab7q7"
 .PHONY : CMakeFiles/lab7q7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab7q7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab7q7.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab7q7.dir/rule
@@ -468,12 +514,12 @@ CMakeFiles/lab7q7.dir/clean:
 CMakeFiles/activitySheet6ex1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet6ex1.dir\build.make CMakeFiles/activitySheet6ex1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet6ex1.dir\build.make CMakeFiles/activitySheet6ex1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target activitySheet6ex1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=11 "Built target activitySheet6ex1"
 .PHONY : CMakeFiles/activitySheet6ex1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/activitySheet6ex1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/activitySheet6ex1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/activitySheet6ex1.dir/rule
@@ -494,12 +540,12 @@ CMakeFiles/activitySheet6ex1.dir/clean:
 CMakeFiles/lab6_ex_q1_a.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6_ex_q1_a.dir\build.make CMakeFiles/lab6_ex_q1_a.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6_ex_q1_a.dir\build.make CMakeFiles/lab6_ex_q1_a.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=45,46 "Built target lab6_ex_q1_a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=58 "Built target lab6_ex_q1_a"
 .PHONY : CMakeFiles/lab6_ex_q1_a.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab6_ex_q1_a.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab6_ex_q1_a.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab6_ex_q1_a.dir/rule
@@ -520,7 +566,7 @@ CMakeFiles/lab6_ex_q1_a.dir/clean:
 CMakeFiles/lab7q2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q2.dir\build.make CMakeFiles/lab7q2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q2.dir\build.make CMakeFiles/lab7q2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=76 "Built target lab7q2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=82 "Built target lab7q2"
 .PHONY : CMakeFiles/lab7q2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -546,12 +592,12 @@ CMakeFiles/lab7q2.dir/clean:
 CMakeFiles/lab5_ex2_q3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q3.dir\build.make CMakeFiles/lab5_ex2_q3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q3.dir\build.make CMakeFiles/lab5_ex2_q3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=36,37 "Built target lab5_ex2_q3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=51 "Built target lab5_ex2_q3"
 .PHONY : CMakeFiles/lab5_ex2_q3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab5_ex2_q3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab5_ex2_q3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab5_ex2_q3.dir/rule
@@ -572,7 +618,7 @@ CMakeFiles/lab5_ex2_q3.dir/clean:
 CMakeFiles/lab7q4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q4.dir\build.make CMakeFiles/lab7q4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q4.dir\build.make CMakeFiles/lab7q4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=79 "Built target lab7q4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=84 "Built target lab7q4"
 .PHONY : CMakeFiles/lab7q4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -598,7 +644,7 @@ CMakeFiles/lab7q4.dir/clean:
 CMakeFiles/lab5_ex2_q5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q5.dir\build.make CMakeFiles/lab5_ex2_q5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q5.dir\build.make CMakeFiles/lab5_ex2_q5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=39 "Built target lab5_ex2_q5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=53 "Built target lab5_ex2_q5"
 .PHONY : CMakeFiles/lab5_ex2_q5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -624,7 +670,7 @@ CMakeFiles/lab5_ex2_q5.dir/clean:
 CMakeFiles/lab5_ex2_q7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q7.dir\build.make CMakeFiles/lab5_ex2_q7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q7.dir\build.make CMakeFiles/lab5_ex2_q7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=42 "Built target lab5_ex2_q7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=55 "Built target lab5_ex2_q7"
 .PHONY : CMakeFiles/lab5_ex2_q7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -650,7 +696,7 @@ CMakeFiles/lab5_ex2_q7.dir/clean:
 CMakeFiles/lab7q9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q9.dir\build.make CMakeFiles/lab7q9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q9.dir\build.make CMakeFiles/lab7q9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=89 "Built target lab7q9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=92 "Built target lab7q9"
 .PHONY : CMakeFiles/lab7q9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -676,7 +722,7 @@ CMakeFiles/lab7q9.dir/clean:
 CMakeFiles/lab5_ex2_q8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q8.dir\build.make CMakeFiles/lab5_ex2_q8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q8.dir\build.make CMakeFiles/lab5_ex2_q8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=43 "Built target lab5_ex2_q8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=56 "Built target lab5_ex2_q8"
 .PHONY : CMakeFiles/lab5_ex2_q8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -702,12 +748,12 @@ CMakeFiles/lab5_ex2_q8.dir/clean:
 CMakeFiles/lab8ex1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex1.dir\build.make CMakeFiles/lab8ex1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex1.dir\build.make CMakeFiles/lab8ex1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=90,91 "Built target lab8ex1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=93 "Built target lab8ex1"
 .PHONY : CMakeFiles/lab8ex1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab8ex1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab8ex1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab8ex1.dir/rule
@@ -728,7 +774,7 @@ CMakeFiles/lab8ex1.dir/clean:
 CMakeFiles/lab7q8.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q8.dir\build.make CMakeFiles/lab7q8.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q8.dir\build.make CMakeFiles/lab7q8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=88 "Built target lab7q8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=91 "Built target lab7q8"
 .PHONY : CMakeFiles/lab7q8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -754,7 +800,7 @@ CMakeFiles/lab7q8.dir/clean:
 CMakeFiles/lab5_ex2_q9.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q9.dir\build.make CMakeFiles/lab5_ex2_q9.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab5_ex2_q9.dir\build.make CMakeFiles/lab5_ex2_q9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=44 "Built target lab5_ex2_q9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=57 "Built target lab5_ex2_q9"
 .PHONY : CMakeFiles/lab5_ex2_q9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -780,7 +826,7 @@ CMakeFiles/lab5_ex2_q9.dir/clean:
 CMakeFiles/lab7q13.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q13.dir\build.make CMakeFiles/lab7q13.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q13.dir\build.make CMakeFiles/lab7q13.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=57 "Built target lab7q13"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=67 "Built target lab7q13"
 .PHONY : CMakeFiles/lab7q13.dir/all
 
 # Build rule for subdir invocation for target.
@@ -806,7 +852,7 @@ CMakeFiles/lab7q13.dir/clean:
 CMakeFiles/function1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\function1.dir\build.make CMakeFiles/function1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\function1.dir\build.make CMakeFiles/function1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=24 "Built target function1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=27 "Built target function1"
 .PHONY : CMakeFiles/function1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -832,7 +878,7 @@ CMakeFiles/function1.dir/clean:
 CMakeFiles/lab7q16.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q16.dir\build.make CMakeFiles/lab7q16.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q16.dir\build.make CMakeFiles/lab7q16.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=61 "Built target lab7q16"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=70 "Built target lab7q16"
 .PHONY : CMakeFiles/lab7q16.dir/all
 
 # Build rule for subdir invocation for target.
@@ -858,7 +904,7 @@ CMakeFiles/lab7q16.dir/clean:
 CMakeFiles/activitySheet4ex1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet4ex1.dir\build.make CMakeFiles/activitySheet4ex1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet4ex1.dir\build.make CMakeFiles/activitySheet4ex1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=3 "Built target activitySheet4ex1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=6 "Built target activitySheet4ex1"
 .PHONY : CMakeFiles/activitySheet4ex1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -884,12 +930,12 @@ CMakeFiles/activitySheet4ex1.dir/clean:
 CMakeFiles/lab7q15.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q15.dir\build.make CMakeFiles/lab7q15.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q15.dir\build.make CMakeFiles/lab7q15.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=59,60 "Built target lab7q15"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=69 "Built target lab7q15"
 .PHONY : CMakeFiles/lab7q15.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab7q15.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab7q15.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab7q15.dir/rule
@@ -910,12 +956,12 @@ CMakeFiles/lab7q15.dir/clean:
 CMakeFiles/activitySheet4ex2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet4ex2.dir\build.make CMakeFiles/activitySheet4ex2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet4ex2.dir\build.make CMakeFiles/activitySheet4ex2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=4,5 "Built target activitySheet4ex2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=7 "Built target activitySheet4ex2"
 .PHONY : CMakeFiles/activitySheet4ex2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/activitySheet4ex2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/activitySheet4ex2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/activitySheet4ex2.dir/rule
@@ -936,7 +982,7 @@ CMakeFiles/activitySheet4ex2.dir/clean:
 CMakeFiles/lab7q14.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q14.dir\build.make CMakeFiles/lab7q14.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q14.dir\build.make CMakeFiles/lab7q14.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=58 "Built target lab7q14"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=68 "Built target lab7q14"
 .PHONY : CMakeFiles/lab7q14.dir/all
 
 # Build rule for subdir invocation for target.
@@ -962,7 +1008,7 @@ CMakeFiles/lab7q14.dir/clean:
 CMakeFiles/activitySheet4ex3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet4ex3.dir\build.make CMakeFiles/activitySheet4ex3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet4ex3.dir\build.make CMakeFiles/activitySheet4ex3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=6 "Built target activitySheet4ex3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=8 "Built target activitySheet4ex3"
 .PHONY : CMakeFiles/activitySheet4ex3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -988,7 +1034,7 @@ CMakeFiles/activitySheet4ex3.dir/clean:
 CMakeFiles/lab6q3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q3.dir\build.make CMakeFiles/lab6q3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q3.dir\build.make CMakeFiles/lab6q3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=47 "Built target lab6q3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=59 "Built target lab6q3"
 .PHONY : CMakeFiles/lab6q3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1014,7 +1060,7 @@ CMakeFiles/lab6q3.dir/clean:
 CMakeFiles/lab6q5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q5.dir\build.make CMakeFiles/lab6q5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q5.dir\build.make CMakeFiles/lab6q5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=48 "Built target lab6q5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=60 "Built target lab6q5"
 .PHONY : CMakeFiles/lab6q5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1040,12 +1086,12 @@ CMakeFiles/lab6q5.dir/clean:
 CMakeFiles/lab7q17sir.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q17sir.dir\build.make CMakeFiles/lab7q17sir.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q17sir.dir\build.make CMakeFiles/lab7q17sir.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=63,64 "Built target lab7q17sir"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=72 "Built target lab7q17sir"
 .PHONY : CMakeFiles/lab7q17sir.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab7q17sir.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab7q17sir.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab7q17sir.dir/rule
@@ -1066,12 +1112,12 @@ CMakeFiles/lab7q17sir.dir/clean:
 CMakeFiles/lab6q8a.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q8a.dir\build.make CMakeFiles/lab6q8a.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q8a.dir\build.make CMakeFiles/lab6q8a.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=49,50 "Built target lab6q8a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=61 "Built target lab6q8a"
 .PHONY : CMakeFiles/lab6q8a.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab6q8a.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab6q8a.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab6q8a.dir/rule
@@ -1092,7 +1138,7 @@ CMakeFiles/lab6q8a.dir/clean:
 CMakeFiles/lab6q8b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q8b.dir\build.make CMakeFiles/lab6q8b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q8b.dir\build.make CMakeFiles/lab6q8b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=51 "Built target lab6q8b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=62 "Built target lab6q8b"
 .PHONY : CMakeFiles/lab6q8b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1118,7 +1164,7 @@ CMakeFiles/lab6q8b.dir/clean:
 CMakeFiles/lab6q8d.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q8d.dir\build.make CMakeFiles/lab6q8d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab6q8d.dir\build.make CMakeFiles/lab6q8d.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=52 "Built target lab6q8d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=63 "Built target lab6q8d"
 .PHONY : CMakeFiles/lab6q8d.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1144,7 +1190,7 @@ CMakeFiles/lab6q8d.dir/clean:
 CMakeFiles/2darray2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2darray2.dir\build.make CMakeFiles/2darray2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2darray2.dir\build.make CMakeFiles/2darray2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=2 "Built target 2darray2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=1 "Built target 2darray2"
 .PHONY : CMakeFiles/2darray2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1170,7 +1216,7 @@ CMakeFiles/2darray2.dir/clean:
 CMakeFiles/lab7q1a.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1a.dir\build.make CMakeFiles/lab7q1a.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1a.dir\build.make CMakeFiles/lab7q1a.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=66 "Built target lab7q1a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=74 "Built target lab7q1a"
 .PHONY : CMakeFiles/lab7q1a.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1196,12 +1242,12 @@ CMakeFiles/lab7q1a.dir/clean:
 CMakeFiles/2darray1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2darray1.dir\build.make CMakeFiles/2darray1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\2darray1.dir\build.make CMakeFiles/2darray1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=1 "Built target 2darray1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num= "Built target 2darray1"
 .PHONY : CMakeFiles/2darray1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2darray1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/2darray1.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/2darray1.dir/rule
@@ -1222,7 +1268,7 @@ CMakeFiles/2darray1.dir/clean:
 CMakeFiles/lab7q6c.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q6c.dir\build.make CMakeFiles/lab7q6c.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q6c.dir\build.make CMakeFiles/lab7q6c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=84 "Built target lab7q6c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=88 "Built target lab7q6c"
 .PHONY : CMakeFiles/lab7q6c.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1248,7 +1294,7 @@ CMakeFiles/lab7q6c.dir/clean:
 CMakeFiles/lab7q1b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1b.dir\build.make CMakeFiles/lab7q1b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1b.dir\build.make CMakeFiles/lab7q1b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=67 "Built target lab7q1b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=75 "Built target lab7q1b"
 .PHONY : CMakeFiles/lab7q1b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1274,7 +1320,7 @@ CMakeFiles/lab7q1b.dir/clean:
 CMakeFiles/lab7q6b.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q6b.dir\build.make CMakeFiles/lab7q6b.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q6b.dir\build.make CMakeFiles/lab7q6b.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=83 "Built target lab7q6b"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=87 "Built target lab7q6b"
 .PHONY : CMakeFiles/lab7q6b.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1300,12 +1346,12 @@ CMakeFiles/lab7q6b.dir/clean:
 CMakeFiles/lab7q1c.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1c.dir\build.make CMakeFiles/lab7q1c.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1c.dir\build.make CMakeFiles/lab7q1c.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=68,69 "Built target lab7q1c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=76 "Built target lab7q1c"
 .PHONY : CMakeFiles/lab7q1c.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab7q1c.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab7q1c.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab7q1c.dir/rule
@@ -1326,7 +1372,7 @@ CMakeFiles/lab7q1c.dir/clean:
 CMakeFiles/lab7q1d.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1d.dir\build.make CMakeFiles/lab7q1d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1d.dir\build.make CMakeFiles/lab7q1d.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=70 "Built target lab7q1d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=77 "Built target lab7q1d"
 .PHONY : CMakeFiles/lab7q1d.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1352,7 +1398,7 @@ CMakeFiles/lab7q1d.dir/clean:
 CMakeFiles/lab7q6d.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q6d.dir\build.make CMakeFiles/lab7q6d.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q6d.dir\build.make CMakeFiles/lab7q6d.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=85 "Built target lab7q6d"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=89 "Built target lab7q6d"
 .PHONY : CMakeFiles/lab7q6d.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1378,7 +1424,7 @@ CMakeFiles/lab7q6d.dir/clean:
 CMakeFiles/lab7q1e.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1e.dir\build.make CMakeFiles/lab7q1e.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1e.dir\build.make CMakeFiles/lab7q1e.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=71 "Built target lab7q1e"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=78 "Built target lab7q1e"
 .PHONY : CMakeFiles/lab7q1e.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1404,12 +1450,12 @@ CMakeFiles/lab7q1e.dir/clean:
 CMakeFiles/lab7q1f.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1f.dir\build.make CMakeFiles/lab7q1f.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1f.dir\build.make CMakeFiles/lab7q1f.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=72,73 "Built target lab7q1f"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=79 "Built target lab7q1f"
 .PHONY : CMakeFiles/lab7q1f.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab7q1f.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab7q1f.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab7q1f.dir/rule
@@ -1430,7 +1476,7 @@ CMakeFiles/lab7q1f.dir/clean:
 CMakeFiles/lab7q1g.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1g.dir\build.make CMakeFiles/lab7q1g.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1g.dir\build.make CMakeFiles/lab7q1g.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=74 "Built target lab7q1g"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=80 "Built target lab7q1g"
 .PHONY : CMakeFiles/lab7q1g.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1450,13 +1496,39 @@ CMakeFiles/lab7q1g.dir/clean:
 .PHONY : CMakeFiles/lab7q1g.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/lab10ex7sir.dir
+
+# All Build rule for target.
+CMakeFiles/lab10ex7sir.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7sir.dir\build.make CMakeFiles/lab10ex7sir.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7sir.dir\build.make CMakeFiles/lab10ex7sir.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=36 "Built target lab10ex7sir"
+.PHONY : CMakeFiles/lab10ex7sir.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab10ex7sir.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab10ex7sir.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab10ex7sir.dir/rule
+
+# Convenience name for target.
+lab10ex7sir: CMakeFiles/lab10ex7sir.dir/rule
+.PHONY : lab10ex7sir
+
+# clean rule for target.
+CMakeFiles/lab10ex7sir.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7sir.dir\build.make CMakeFiles/lab10ex7sir.dir/clean
+.PHONY : CMakeFiles/lab10ex7sir.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/lab7q1h.dir
 
 # All Build rule for target.
 CMakeFiles/lab7q1h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1h.dir\build.make CMakeFiles/lab7q1h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q1h.dir\build.make CMakeFiles/lab7q1h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=75 "Built target lab7q1h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=81 "Built target lab7q1h"
 .PHONY : CMakeFiles/lab7q1h.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1482,12 +1554,12 @@ CMakeFiles/lab7q1h.dir/clean:
 CMakeFiles/lab7q6a.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q6a.dir\build.make CMakeFiles/lab7q6a.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q6a.dir\build.make CMakeFiles/lab7q6a.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=81,82 "Built target lab7q6a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=86 "Built target lab7q6a"
 .PHONY : CMakeFiles/lab7q6a.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab7q6a.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab7q6a.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab7q6a.dir/rule
@@ -1508,7 +1580,7 @@ CMakeFiles/lab7q6a.dir/clean:
 CMakeFiles/lab7q10.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q10.dir\build.make CMakeFiles/lab7q10.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q10.dir\build.make CMakeFiles/lab7q10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=53 "Built target lab7q10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=64 "Built target lab7q10"
 .PHONY : CMakeFiles/lab7q10.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1534,12 +1606,12 @@ CMakeFiles/lab7q10.dir/clean:
 CMakeFiles/lab7q11.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q11.dir\build.make CMakeFiles/lab7q11.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q11.dir\build.make CMakeFiles/lab7q11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=54,55 "Built target lab7q11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=65 "Built target lab7q11"
 .PHONY : CMakeFiles/lab7q11.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab7q11.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab7q11.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab7q11.dir/rule
@@ -1554,13 +1626,39 @@ CMakeFiles/lab7q11.dir/clean:
 .PHONY : CMakeFiles/lab7q11.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/SirTheorystructex1.dir
+
+# All Build rule for target.
+CMakeFiles/SirTheorystructex1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructex1.dir\build.make CMakeFiles/SirTheorystructex1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructex1.dir\build.make CMakeFiles/SirTheorystructex1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=3 "Built target SirTheorystructex1"
+.PHONY : CMakeFiles/SirTheorystructex1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SirTheorystructex1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/SirTheorystructex1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/SirTheorystructex1.dir/rule
+
+# Convenience name for target.
+SirTheorystructex1: CMakeFiles/SirTheorystructex1.dir/rule
+.PHONY : SirTheorystructex1
+
+# clean rule for target.
+CMakeFiles/SirTheorystructex1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructex1.dir\build.make CMakeFiles/SirTheorystructex1.dir/clean
+.PHONY : CMakeFiles/SirTheorystructex1.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/lab7q12.dir
 
 # All Build rule for target.
 CMakeFiles/lab7q12.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q12.dir\build.make CMakeFiles/lab7q12.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q12.dir\build.make CMakeFiles/lab7q12.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=56 "Built target lab7q12"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=66 "Built target lab7q12"
 .PHONY : CMakeFiles/lab7q12.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1586,7 +1684,7 @@ CMakeFiles/lab7q12.dir/clean:
 CMakeFiles/lab7q17.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q17.dir\build.make CMakeFiles/lab7q17.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q17.dir\build.make CMakeFiles/lab7q17.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=62 "Built target lab7q17"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=71 "Built target lab7q17"
 .PHONY : CMakeFiles/lab7q17.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1612,7 +1710,7 @@ CMakeFiles/lab7q17.dir/clean:
 CMakeFiles/lab7q18.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q18.dir\build.make CMakeFiles/lab7q18.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab7q18.dir\build.make CMakeFiles/lab7q18.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=65 "Built target lab7q18"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=73 "Built target lab7q18"
 .PHONY : CMakeFiles/lab7q18.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1658,18 +1756,44 @@ CMakeFiles/array1.dir/clean:
 .PHONY : CMakeFiles/array1.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/assignmentsharas.dir
+
+# All Build rule for target.
+CMakeFiles/assignmentsharas.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentsharas.dir\build.make CMakeFiles/assignmentsharas.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentsharas.dir\build.make CMakeFiles/assignmentsharas.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=24 "Built target assignmentsharas"
+.PHONY : CMakeFiles/assignmentsharas.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/assignmentsharas.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/assignmentsharas.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/assignmentsharas.dir/rule
+
+# Convenience name for target.
+assignmentsharas: CMakeFiles/assignmentsharas.dir/rule
+.PHONY : assignmentsharas
+
+# clean rule for target.
+CMakeFiles/assignmentsharas.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentsharas.dir\build.make CMakeFiles/assignmentsharas.dir/clean
+.PHONY : CMakeFiles/assignmentsharas.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/array2.dir
 
 # All Build rule for target.
 CMakeFiles/array2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\array2.dir\build.make CMakeFiles/array2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\array2.dir\build.make CMakeFiles/array2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=22,23 "Built target array2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=22 "Built target array2"
 .PHONY : CMakeFiles/array2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/array2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/array2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/array2.dir/rule
@@ -1690,7 +1814,7 @@ CMakeFiles/array2.dir/clean:
 CMakeFiles/activitySheet5ex2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet5ex2.dir\build.make CMakeFiles/activitySheet5ex2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet5ex2.dir\build.make CMakeFiles/activitySheet5ex2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=7 "Built target activitySheet5ex2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=9 "Built target activitySheet5ex2"
 .PHONY : CMakeFiles/activitySheet5ex2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1716,7 +1840,7 @@ CMakeFiles/activitySheet5ex2.dir/clean:
 CMakeFiles/activitySheet6ex2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet6ex2.dir\build.make CMakeFiles/activitySheet6ex2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet6ex2.dir\build.make CMakeFiles/activitySheet6ex2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=11 "Built target activitySheet6ex2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=12 "Built target activitySheet6ex2"
 .PHONY : CMakeFiles/activitySheet6ex2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1742,7 +1866,7 @@ CMakeFiles/activitySheet6ex2.dir/clean:
 CMakeFiles/activitySheet6ex3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet6ex3.dir\build.make CMakeFiles/activitySheet6ex3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet6ex3.dir\build.make CMakeFiles/activitySheet6ex3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=12 "Built target activitySheet6ex3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=13 "Built target activitySheet6ex3"
 .PHONY : CMakeFiles/activitySheet6ex3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1768,12 +1892,12 @@ CMakeFiles/activitySheet6ex3.dir/clean:
 CMakeFiles/activitySheet6ex4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet6ex4.dir\build.make CMakeFiles/activitySheet6ex4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\activitySheet6ex4.dir\build.make CMakeFiles/activitySheet6ex4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=13,14 "Built target activitySheet6ex4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=14 "Built target activitySheet6ex4"
 .PHONY : CMakeFiles/activitySheet6ex4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/activitySheet6ex4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/activitySheet6ex4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/activitySheet6ex4.dir/rule
@@ -1820,7 +1944,7 @@ CMakeFiles/akilasirTheory2.dir/clean:
 CMakeFiles/lab8funcpr.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8funcpr.dir\build.make CMakeFiles/lab8funcpr.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8funcpr.dir\build.make CMakeFiles/lab8funcpr.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=98 "Built target lab8funcpr"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=99 "Built target lab8funcpr"
 .PHONY : CMakeFiles/lab8funcpr.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1846,7 +1970,7 @@ CMakeFiles/lab8funcpr.dir/clean:
 CMakeFiles/lab8ex2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex2.dir\build.make CMakeFiles/lab8ex2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex2.dir\build.make CMakeFiles/lab8ex2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=92 "Built target lab8ex2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=94 "Built target lab8ex2"
 .PHONY : CMakeFiles/lab8ex2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1872,7 +1996,7 @@ CMakeFiles/lab8ex2.dir/clean:
 CMakeFiles/lab8ex3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex3.dir\build.make CMakeFiles/lab8ex3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex3.dir\build.make CMakeFiles/lab8ex3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=93 "Built target lab8ex3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=95 "Built target lab8ex3"
 .PHONY : CMakeFiles/lab8ex3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1898,7 +2022,7 @@ CMakeFiles/lab8ex3.dir/clean:
 CMakeFiles/lab8ex4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex4.dir\build.make CMakeFiles/lab8ex4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex4.dir\build.make CMakeFiles/lab8ex4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=94 "Built target lab8ex4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=96 "Built target lab8ex4"
 .PHONY : CMakeFiles/lab8ex4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1924,12 +2048,12 @@ CMakeFiles/lab8ex4.dir/clean:
 CMakeFiles/lab8ex5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex5.dir\build.make CMakeFiles/lab8ex5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex5.dir\build.make CMakeFiles/lab8ex5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=95,96 "Built target lab8ex5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=97 "Built target lab8ex5"
 .PHONY : CMakeFiles/lab8ex5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab8ex5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab8ex5.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab8ex5.dir/rule
@@ -1950,7 +2074,7 @@ CMakeFiles/lab8ex5.dir/clean:
 CMakeFiles/lab8ex6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex6.dir\build.make CMakeFiles/lab8ex6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab8ex6.dir\build.make CMakeFiles/lab8ex6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=97 "Built target lab8ex6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=98 "Built target lab8ex6"
 .PHONY : CMakeFiles/lab8ex6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2028,12 +2152,12 @@ CMakeFiles/akilasirTheory3.dir/clean:
 CMakeFiles/akilasirTheory4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory4.dir\build.make CMakeFiles/akilasirTheory4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory4.dir\build.make CMakeFiles/akilasirTheory4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=18,19 "Built target akilasirTheory4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=18 "Built target akilasirTheory4"
 .PHONY : CMakeFiles/akilasirTheory4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/akilasirTheory4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/akilasirTheory4.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/akilasirTheory4.dir/rule
@@ -2054,7 +2178,7 @@ CMakeFiles/akilasirTheory4.dir/clean:
 CMakeFiles/akilasirTheory5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory5.dir\build.make CMakeFiles/akilasirTheory5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory5.dir\build.make CMakeFiles/akilasirTheory5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=20 "Built target akilasirTheory5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=19 "Built target akilasirTheory5"
 .PHONY : CMakeFiles/akilasirTheory5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2074,13 +2198,39 @@ CMakeFiles/akilasirTheory5.dir/clean:
 .PHONY : CMakeFiles/akilasirTheory5.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/akilasirTheory6.dir
+
+# All Build rule for target.
+CMakeFiles/akilasirTheory6.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory6.dir\build.make CMakeFiles/akilasirTheory6.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory6.dir\build.make CMakeFiles/akilasirTheory6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=20 "Built target akilasirTheory6"
+.PHONY : CMakeFiles/akilasirTheory6.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/akilasirTheory6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/akilasirTheory6.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/akilasirTheory6.dir/rule
+
+# Convenience name for target.
+akilasirTheory6: CMakeFiles/akilasirTheory6.dir/rule
+.PHONY : akilasirTheory6
+
+# clean rule for target.
+CMakeFiles/akilasirTheory6.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\akilasirTheory6.dir\build.make CMakeFiles/akilasirTheory6.dir/clean
+.PHONY : CMakeFiles/akilasirTheory6.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/lab10ex1.dir
 
 # All Build rule for target.
 CMakeFiles/lab10ex1.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex1.dir\build.make CMakeFiles/lab10ex1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex1.dir\build.make CMakeFiles/lab10ex1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=25 "Built target lab10ex1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=28 "Built target lab10ex1"
 .PHONY : CMakeFiles/lab10ex1.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2106,7 +2256,7 @@ CMakeFiles/lab10ex1.dir/clean:
 CMakeFiles/lab10ex2.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex2.dir\build.make CMakeFiles/lab10ex2.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex2.dir\build.make CMakeFiles/lab10ex2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=26 "Built target lab10ex2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=29 "Built target lab10ex2"
 .PHONY : CMakeFiles/lab10ex2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2132,12 +2282,12 @@ CMakeFiles/lab10ex2.dir/clean:
 CMakeFiles/lab10ex3.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex3.dir\build.make CMakeFiles/lab10ex3.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex3.dir\build.make CMakeFiles/lab10ex3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=27,28 "Built target lab10ex3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=30 "Built target lab10ex3"
 .PHONY : CMakeFiles/lab10ex3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab10ex3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab10ex3.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab10ex3.dir/rule
@@ -2158,7 +2308,7 @@ CMakeFiles/lab10ex3.dir/clean:
 CMakeFiles/lab10ex4.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex4.dir\build.make CMakeFiles/lab10ex4.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex4.dir\build.make CMakeFiles/lab10ex4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=29 "Built target lab10ex4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=31 "Built target lab10ex4"
 .PHONY : CMakeFiles/lab10ex4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2184,7 +2334,7 @@ CMakeFiles/lab10ex4.dir/clean:
 CMakeFiles/lab10ex5.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex5.dir\build.make CMakeFiles/lab10ex5.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex5.dir\build.make CMakeFiles/lab10ex5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=30 "Built target lab10ex5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=32 "Built target lab10ex5"
 .PHONY : CMakeFiles/lab10ex5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2210,12 +2360,12 @@ CMakeFiles/lab10ex5.dir/clean:
 CMakeFiles/lab10ex6.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6.dir\build.make CMakeFiles/lab10ex6.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6.dir\build.make CMakeFiles/lab10ex6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=31,32 "Built target lab10ex6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=33 "Built target lab10ex6"
 .PHONY : CMakeFiles/lab10ex6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lab10ex6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab10ex6.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/lab10ex6.dir/rule
@@ -2230,13 +2380,39 @@ CMakeFiles/lab10ex6.dir/clean:
 .PHONY : CMakeFiles/lab10ex6.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/lab10ex6sir.dir
+
+# All Build rule for target.
+CMakeFiles/lab10ex6sir.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6sir.dir\build.make CMakeFiles/lab10ex6sir.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6sir.dir\build.make CMakeFiles/lab10ex6sir.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=34 "Built target lab10ex6sir"
+.PHONY : CMakeFiles/lab10ex6sir.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab10ex6sir.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab10ex6sir.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab10ex6sir.dir/rule
+
+# Convenience name for target.
+lab10ex6sir: CMakeFiles/lab10ex6sir.dir/rule
+.PHONY : lab10ex6sir
+
+# clean rule for target.
+CMakeFiles/lab10ex6sir.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex6sir.dir\build.make CMakeFiles/lab10ex6sir.dir/clean
+.PHONY : CMakeFiles/lab10ex6sir.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/lab10ex7.dir
 
 # All Build rule for target.
 CMakeFiles/lab10ex7.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7.dir\build.make CMakeFiles/lab10ex7.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7.dir\build.make CMakeFiles/lab10ex7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=33 "Built target lab10ex7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=35 "Built target lab10ex7"
 .PHONY : CMakeFiles/lab10ex7.dir/all
 
 # Build rule for subdir invocation for target.
@@ -2254,6 +2430,474 @@ lab10ex7: CMakeFiles/lab10ex7.dir/rule
 CMakeFiles/lab10ex7.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab10ex7.dir\build.make CMakeFiles/lab10ex7.dir/clean
 .PHONY : CMakeFiles/lab10ex7.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SirTheorystr1.dir
+
+# All Build rule for target.
+CMakeFiles/SirTheorystr1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystr1.dir\build.make CMakeFiles/SirTheorystr1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystr1.dir\build.make CMakeFiles/SirTheorystr1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=2 "Built target SirTheorystr1"
+.PHONY : CMakeFiles/SirTheorystr1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SirTheorystr1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/SirTheorystr1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/SirTheorystr1.dir/rule
+
+# Convenience name for target.
+SirTheorystr1: CMakeFiles/SirTheorystr1.dir/rule
+.PHONY : SirTheorystr1
+
+# clean rule for target.
+CMakeFiles/SirTheorystr1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystr1.dir\build.make CMakeFiles/SirTheorystr1.dir/clean
+.PHONY : CMakeFiles/SirTheorystr1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab11ex1.dir
+
+# All Build rule for target.
+CMakeFiles/lab11ex1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex1.dir\build.make CMakeFiles/lab11ex1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex1.dir\build.make CMakeFiles/lab11ex1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=37 "Built target lab11ex1"
+.PHONY : CMakeFiles/lab11ex1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab11ex1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab11ex1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab11ex1.dir/rule
+
+# Convenience name for target.
+lab11ex1: CMakeFiles/lab11ex1.dir/rule
+.PHONY : lab11ex1
+
+# clean rule for target.
+CMakeFiles/lab11ex1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex1.dir\build.make CMakeFiles/lab11ex1.dir/clean
+.PHONY : CMakeFiles/lab11ex1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab11ex2.dir
+
+# All Build rule for target.
+CMakeFiles/lab11ex2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex2.dir\build.make CMakeFiles/lab11ex2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex2.dir\build.make CMakeFiles/lab11ex2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=38 "Built target lab11ex2"
+.PHONY : CMakeFiles/lab11ex2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab11ex2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab11ex2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab11ex2.dir/rule
+
+# Convenience name for target.
+lab11ex2: CMakeFiles/lab11ex2.dir/rule
+.PHONY : lab11ex2
+
+# clean rule for target.
+CMakeFiles/lab11ex2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex2.dir\build.make CMakeFiles/lab11ex2.dir/clean
+.PHONY : CMakeFiles/lab11ex2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab11ex3.dir
+
+# All Build rule for target.
+CMakeFiles/lab11ex3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex3.dir\build.make CMakeFiles/lab11ex3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex3.dir\build.make CMakeFiles/lab11ex3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=39 "Built target lab11ex3"
+.PHONY : CMakeFiles/lab11ex3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab11ex3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab11ex3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab11ex3.dir/rule
+
+# Convenience name for target.
+lab11ex3: CMakeFiles/lab11ex3.dir/rule
+.PHONY : lab11ex3
+
+# clean rule for target.
+CMakeFiles/lab11ex3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex3.dir\build.make CMakeFiles/lab11ex3.dir/clean
+.PHONY : CMakeFiles/lab11ex3.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab11ex4.dir
+
+# All Build rule for target.
+CMakeFiles/lab11ex4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex4.dir\build.make CMakeFiles/lab11ex4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex4.dir\build.make CMakeFiles/lab11ex4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=40 "Built target lab11ex4"
+.PHONY : CMakeFiles/lab11ex4.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab11ex4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab11ex4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab11ex4.dir/rule
+
+# Convenience name for target.
+lab11ex4: CMakeFiles/lab11ex4.dir/rule
+.PHONY : lab11ex4
+
+# clean rule for target.
+CMakeFiles/lab11ex4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex4.dir\build.make CMakeFiles/lab11ex4.dir/clean
+.PHONY : CMakeFiles/lab11ex4.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab11ex5.dir
+
+# All Build rule for target.
+CMakeFiles/lab11ex5.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex5.dir\build.make CMakeFiles/lab11ex5.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex5.dir\build.make CMakeFiles/lab11ex5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=41 "Built target lab11ex5"
+.PHONY : CMakeFiles/lab11ex5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab11ex5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab11ex5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab11ex5.dir/rule
+
+# Convenience name for target.
+lab11ex5: CMakeFiles/lab11ex5.dir/rule
+.PHONY : lab11ex5
+
+# clean rule for target.
+CMakeFiles/lab11ex5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex5.dir\build.make CMakeFiles/lab11ex5.dir/clean
+.PHONY : CMakeFiles/lab11ex5.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab11ex6.dir
+
+# All Build rule for target.
+CMakeFiles/lab11ex6.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex6.dir\build.make CMakeFiles/lab11ex6.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex6.dir\build.make CMakeFiles/lab11ex6.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=42 "Built target lab11ex6"
+.PHONY : CMakeFiles/lab11ex6.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab11ex6.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab11ex6.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab11ex6.dir/rule
+
+# Convenience name for target.
+lab11ex6: CMakeFiles/lab11ex6.dir/rule
+.PHONY : lab11ex6
+
+# clean rule for target.
+CMakeFiles/lab11ex6.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab11ex6.dir\build.make CMakeFiles/lab11ex6.dir/clean
+.PHONY : CMakeFiles/lab11ex6.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab12ex1.dir
+
+# All Build rule for target.
+CMakeFiles/lab12ex1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex1.dir\build.make CMakeFiles/lab12ex1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex1.dir\build.make CMakeFiles/lab12ex1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=44 "Built target lab12ex1"
+.PHONY : CMakeFiles/lab12ex1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab12ex1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab12ex1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab12ex1.dir/rule
+
+# Convenience name for target.
+lab12ex1: CMakeFiles/lab12ex1.dir/rule
+.PHONY : lab12ex1
+
+# clean rule for target.
+CMakeFiles/lab12ex1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex1.dir\build.make CMakeFiles/lab12ex1.dir/clean
+.PHONY : CMakeFiles/lab12ex1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab12ex2.dir
+
+# All Build rule for target.
+CMakeFiles/lab12ex2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex2.dir\build.make CMakeFiles/lab12ex2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex2.dir\build.make CMakeFiles/lab12ex2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=45 "Built target lab12ex2"
+.PHONY : CMakeFiles/lab12ex2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab12ex2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab12ex2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab12ex2.dir/rule
+
+# Convenience name for target.
+lab12ex2: CMakeFiles/lab12ex2.dir/rule
+.PHONY : lab12ex2
+
+# clean rule for target.
+CMakeFiles/lab12ex2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex2.dir\build.make CMakeFiles/lab12ex2.dir/clean
+.PHONY : CMakeFiles/lab12ex2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab12ex3.dir
+
+# All Build rule for target.
+CMakeFiles/lab12ex3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex3.dir\build.make CMakeFiles/lab12ex3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex3.dir\build.make CMakeFiles/lab12ex3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=46 "Built target lab12ex3"
+.PHONY : CMakeFiles/lab12ex3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab12ex3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab12ex3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab12ex3.dir/rule
+
+# Convenience name for target.
+lab12ex3: CMakeFiles/lab12ex3.dir/rule
+.PHONY : lab12ex3
+
+# clean rule for target.
+CMakeFiles/lab12ex3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex3.dir\build.make CMakeFiles/lab12ex3.dir/clean
+.PHONY : CMakeFiles/lab12ex3.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab12ex4.dir
+
+# All Build rule for target.
+CMakeFiles/lab12ex4.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex4.dir\build.make CMakeFiles/lab12ex4.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex4.dir\build.make CMakeFiles/lab12ex4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=47 "Built target lab12ex4"
+.PHONY : CMakeFiles/lab12ex4.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab12ex4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab12ex4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab12ex4.dir/rule
+
+# Convenience name for target.
+lab12ex4: CMakeFiles/lab12ex4.dir/rule
+.PHONY : lab12ex4
+
+# clean rule for target.
+CMakeFiles/lab12ex4.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex4.dir\build.make CMakeFiles/lab12ex4.dir/clean
+.PHONY : CMakeFiles/lab12ex4.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab12ex5.dir
+
+# All Build rule for target.
+CMakeFiles/lab12ex5.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex5.dir\build.make CMakeFiles/lab12ex5.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex5.dir\build.make CMakeFiles/lab12ex5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=48 "Built target lab12ex5"
+.PHONY : CMakeFiles/lab12ex5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab12ex5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab12ex5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab12ex5.dir/rule
+
+# Convenience name for target.
+lab12ex5: CMakeFiles/lab12ex5.dir/rule
+.PHONY : lab12ex5
+
+# clean rule for target.
+CMakeFiles/lab12ex5.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex5.dir\build.make CMakeFiles/lab12ex5.dir/clean
+.PHONY : CMakeFiles/lab12ex5.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/lab12UnionsExercise.dir
+
+# All Build rule for target.
+CMakeFiles/lab12UnionsExercise.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12UnionsExercise.dir\build.make CMakeFiles/lab12UnionsExercise.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12UnionsExercise.dir\build.make CMakeFiles/lab12UnionsExercise.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=43 "Built target lab12UnionsExercise"
+.PHONY : CMakeFiles/lab12UnionsExercise.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/lab12UnionsExercise.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/lab12UnionsExercise.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/lab12UnionsExercise.dir/rule
+
+# Convenience name for target.
+lab12UnionsExercise: CMakeFiles/lab12UnionsExercise.dir/rule
+.PHONY : lab12UnionsExercise
+
+# clean rule for target.
+CMakeFiles/lab12UnionsExercise.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12UnionsExercise.dir\build.make CMakeFiles/lab12UnionsExercise.dir/clean
+.PHONY : CMakeFiles/lab12UnionsExercise.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SirTheorystructure1.dir
+
+# All Build rule for target.
+CMakeFiles/SirTheorystructure1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructure1.dir\build.make CMakeFiles/SirTheorystructure1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructure1.dir\build.make CMakeFiles/SirTheorystructure1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=4 "Built target SirTheorystructure1"
+.PHONY : CMakeFiles/SirTheorystructure1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SirTheorystructure1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/SirTheorystructure1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/SirTheorystructure1.dir/rule
+
+# Convenience name for target.
+SirTheorystructure1: CMakeFiles/SirTheorystructure1.dir/rule
+.PHONY : SirTheorystructure1
+
+# clean rule for target.
+CMakeFiles/SirTheorystructure1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheorystructure1.dir\build.make CMakeFiles/SirTheorystructure1.dir/clean
+.PHONY : CMakeFiles/SirTheorystructure1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/SirTheoryunionex1.dir
+
+# All Build rule for target.
+CMakeFiles/SirTheoryunionex1.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryunionex1.dir\build.make CMakeFiles/SirTheoryunionex1.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryunionex1.dir\build.make CMakeFiles/SirTheoryunionex1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=5 "Built target SirTheoryunionex1"
+.PHONY : CMakeFiles/SirTheoryunionex1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/SirTheoryunionex1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/SirTheoryunionex1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/SirTheoryunionex1.dir/rule
+
+# Convenience name for target.
+SirTheoryunionex1: CMakeFiles/SirTheoryunionex1.dir/rule
+.PHONY : SirTheoryunionex1
+
+# clean rule for target.
+CMakeFiles/SirTheoryunionex1.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryunionex1.dir\build.make CMakeFiles/SirTheoryunionex1.dir/clean
+.PHONY : CMakeFiles/SirTheoryunionex1.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/assignments.dir
+
+# All Build rule for target.
+CMakeFiles/assignments.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignments.dir\build.make CMakeFiles/assignments.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignments.dir\build.make CMakeFiles/assignments.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=23 "Built target assignments"
+.PHONY : CMakeFiles/assignments.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/assignments.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/assignments.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/assignments.dir/rule
+
+# Convenience name for target.
+assignments: CMakeFiles/assignments.dir/rule
+.PHONY : assignments
+
+# clean rule for target.
+CMakeFiles/assignments.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignments.dir\build.make CMakeFiles/assignments.dir/clean
+.PHONY : CMakeFiles/assignments.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/assignmentstest2.dir
+
+# All Build rule for target.
+CMakeFiles/assignmentstest2.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=25 "Built target assignmentstest2"
+.PHONY : CMakeFiles/assignmentstest2.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/assignmentstest2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/assignmentstest2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/assignmentstest2.dir/rule
+
+# Convenience name for target.
+assignmentstest2: CMakeFiles/assignmentstest2.dir/rule
+.PHONY : assignmentstest2
+
+# clean rule for target.
+CMakeFiles/assignmentstest2.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/clean
+.PHONY : CMakeFiles/assignmentstest2.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/assignmentstest3.dir
+
+# All Build rule for target.
+CMakeFiles/assignmentstest3.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest3.dir\build.make CMakeFiles/assignmentstest3.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest3.dir\build.make CMakeFiles/assignmentstest3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=26 "Built target assignmentstest3"
+.PHONY : CMakeFiles/assignmentstest3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/assignmentstest3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/assignmentstest3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/assignmentstest3.dir/rule
+
+# Convenience name for target.
+assignmentstest3: CMakeFiles/assignmentstest3.dir/rule
+.PHONY : assignmentstest3
+
+# clean rule for target.
+CMakeFiles/assignmentstest3.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest3.dir\build.make CMakeFiles/assignmentstest3.dir/clean
+.PHONY : CMakeFiles/assignmentstest3.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

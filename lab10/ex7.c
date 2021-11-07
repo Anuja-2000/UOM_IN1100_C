@@ -16,8 +16,8 @@ int main() {
         Zxy = Zxy + (dataArray[0][i]) * (dataArray[1][i]);
     }
 
-    printf("ZX = %0.2f\nZx2 = %0.2f\nZy = %0.2f\nZy2 = %0.2f\nZxy = %0.2f\n", Zx, Zx2, Zy, Zy2, Zxy);
-    double r = ((Zxy) - ((Zx * Zy) / n)) / (sqrt(Zx2 - ((Zx * Zx) / n)) * sqrt((Zy2) - ((Zy * Zy) / n)));
+    //printf("ZX = %0.2f\nZx2 = %0.2f\nZy = %0.2f\nZy2 = %0.2f\nZxy = %0.2f\n", Zx, Zx2, Zy, Zy2, Zxy);
+    double r = ((Zxy) - ((Zx * Zy) / n)) / (sqrt((Zx2 - ((Zx * Zx) / n)) * ((Zy2) - ((Zy * Zy) / n))));
     printf("r = %0.2f", r);
 
     double byx = ((Zxy) - ((Zx * Zy) / n)) / (Zx2 - ((Zx * Zx) / n));
