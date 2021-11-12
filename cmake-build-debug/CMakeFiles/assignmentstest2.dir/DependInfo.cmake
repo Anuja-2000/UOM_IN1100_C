@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/assignments/204236M.c" "D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj"
+  "D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/assignments/assignment2.c" "D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

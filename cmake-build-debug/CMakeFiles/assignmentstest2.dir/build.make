@@ -65,27 +65,27 @@ include CMakeFiles/assignmentstest2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/assignmentstest2.dir/flags.make
 
-CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj: CMakeFiles/assignmentstest2.dir/flags.make
-CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj: ../assignments/204236M.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\assignmentstest2.dir\assignments\204236M.c.obj -c "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\assignments\204236M.c"
+CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.obj: CMakeFiles/assignmentstest2.dir/flags.make
+CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.obj: ../assignments/assignment2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.obj"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\assignmentstest2.dir\assignments\assignment2.c.obj -c "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\assignments\assignment2.c"
 
-CMakeFiles/assignmentstest2.dir/assignments/204236M.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/assignmentstest2.dir/assignments/204236M.c.i"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\assignments\204236M.c" > CMakeFiles\assignmentstest2.dir\assignments\204236M.c.i
+CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.i"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\assignments\assignment2.c" > CMakeFiles\assignmentstest2.dir\assignments\assignment2.c.i
 
-CMakeFiles/assignmentstest2.dir/assignments/204236M.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/assignmentstest2.dir/assignments/204236M.c.s"
-	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\assignments\204236M.c" -o CMakeFiles\assignmentstest2.dir\assignments\204236M.c.s
+CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.s"
+	C:\MinGW\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\UOM degree\L01S01\IN 1100_Programming fudamentals\Clion editor\Projects\untitled\assignments\assignment2.c" -o CMakeFiles\assignmentstest2.dir\assignments\assignment2.c.s
 
 # Object files for target assignmentstest2
 assignmentstest2_OBJECTS = \
-"CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj"
+"CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.obj"
 
 # External object files for target assignmentstest2
 assignmentstest2_EXTERNAL_OBJECTS =
 
-assignmentstest2.exe: CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj
+assignmentstest2.exe: CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.obj
 assignmentstest2.exe: CMakeFiles/assignmentstest2.dir/build.make
 assignmentstest2.exe: CMakeFiles/assignmentstest2.dir/linklibs.rsp
 assignmentstest2.exe: CMakeFiles/assignmentstest2.dir/objects1.rsp

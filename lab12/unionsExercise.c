@@ -14,6 +14,6 @@ int main(){
     printf("Marks:");
     scanf("%d",&s.marks);
 
-    printf("\nRoll Number: %d\nName: %s\nMarks: %d",s.roll,)
+    printf("\nRoll Number: %d\nName: %s\nMarks: %d",s.roll,s.name,s.marks);
     return 0;
 }

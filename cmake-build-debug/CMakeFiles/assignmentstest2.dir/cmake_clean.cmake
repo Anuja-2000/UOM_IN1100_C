@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj"
+  "CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.obj"
   "assignmentstest2.exe"
   "assignmentstest2.exe.manifest"
   "assignmentstest2.pdb"

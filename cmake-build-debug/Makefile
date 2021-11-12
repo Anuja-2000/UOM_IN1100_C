@@ -1364,6 +1364,32 @@ lab12UnionsExercise/fast:
 .PHONY : lab12UnionsExercise/fast
 
 #=============================================================================
+# Target rules for targets named lab12pointersEx1
+
+# Build rule for target.
+lab12pointersEx1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab12pointersEx1
+.PHONY : lab12pointersEx1
+
+# fast build rule for target.
+lab12pointersEx1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12pointersEx1.dir\build.make CMakeFiles/lab12pointersEx1.dir/build
+.PHONY : lab12pointersEx1/fast
+
+#=============================================================================
+# Target rules for targets named lab12pointersEx2
+
+# Build rule for target.
+lab12pointersEx2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 lab12pointersEx2
+.PHONY : lab12pointersEx2
+
+# fast build rule for target.
+lab12pointersEx2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12pointersEx2.dir\build.make CMakeFiles/lab12pointersEx2.dir/build
+.PHONY : lab12pointersEx2/fast
+
+#=============================================================================
 # Target rules for targets named SirTheorystructure1
 
 # Build rule for target.
@@ -1388,6 +1414,32 @@ SirTheoryunionex1: cmake_check_build_system
 SirTheoryunionex1/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryunionex1.dir\build.make CMakeFiles/SirTheoryunionex1.dir/build
 .PHONY : SirTheoryunionex1/fast
+
+#=============================================================================
+# Target rules for targets named SirTheoryMacros1
+
+# Build rule for target.
+SirTheoryMacros1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SirTheoryMacros1
+.PHONY : SirTheoryMacros1
+
+# fast build rule for target.
+SirTheoryMacros1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryMacros1.dir\build.make CMakeFiles/SirTheoryMacros1.dir/build
+.PHONY : SirTheoryMacros1/fast
+
+#=============================================================================
+# Target rules for targets named SirTheoryMacroex1
+
+# Build rule for target.
+SirTheoryMacroex1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 SirTheoryMacroex1
+.PHONY : SirTheoryMacroex1
+
+# fast build rule for target.
+SirTheoryMacroex1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryMacroex1.dir\build.make CMakeFiles/SirTheoryMacroex1.dir/build
+.PHONY : SirTheoryMacroex1/fast
 
 #=============================================================================
 # Target rules for targets named assignments
@@ -1427,6 +1479,19 @@ assignmentstest3: cmake_check_build_system
 assignmentstest3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest3.dir\build.make CMakeFiles/assignmentstest3.dir/build
 .PHONY : assignmentstest3/fast
+
+#=============================================================================
+# Target rules for targets named assignmentstest4
+
+# Build rule for target.
+assignmentstest4: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assignmentstest4
+.PHONY : assignmentstest4
+
+# fast build rule for target.
+assignmentstest4/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest4.dir\build.make CMakeFiles/assignmentstest4.dir/build
+.PHONY : assignmentstest4/fast
 
 Lab5Exercise2/lab5_ex2_q1.obj: Lab5Exercise2/lab5_ex2_q1.c.obj
 .PHONY : Lab5Exercise2/lab5_ex2_q1.obj
@@ -1787,6 +1852,54 @@ SirTheory/function1.s: SirTheory/function1.c.s
 SirTheory/function1.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\function1.dir\build.make CMakeFiles/function1.dir/SirTheory/function1.c.s
 .PHONY : SirTheory/function1.c.s
+
+SirTheory/macroex1.obj: SirTheory/macroex1.c.obj
+.PHONY : SirTheory/macroex1.obj
+
+# target to build an object file
+SirTheory/macroex1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryMacroex1.dir\build.make CMakeFiles/SirTheoryMacroex1.dir/SirTheory/macroex1.c.obj
+.PHONY : SirTheory/macroex1.c.obj
+
+SirTheory/macroex1.i: SirTheory/macroex1.c.i
+.PHONY : SirTheory/macroex1.i
+
+# target to preprocess a source file
+SirTheory/macroex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryMacroex1.dir\build.make CMakeFiles/SirTheoryMacroex1.dir/SirTheory/macroex1.c.i
+.PHONY : SirTheory/macroex1.c.i
+
+SirTheory/macroex1.s: SirTheory/macroex1.c.s
+.PHONY : SirTheory/macroex1.s
+
+# target to generate assembly for a file
+SirTheory/macroex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryMacroex1.dir\build.make CMakeFiles/SirTheoryMacroex1.dir/SirTheory/macroex1.c.s
+.PHONY : SirTheory/macroex1.c.s
+
+SirTheory/macros1.obj: SirTheory/macros1.c.obj
+.PHONY : SirTheory/macros1.obj
+
+# target to build an object file
+SirTheory/macros1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryMacros1.dir\build.make CMakeFiles/SirTheoryMacros1.dir/SirTheory/macros1.c.obj
+.PHONY : SirTheory/macros1.c.obj
+
+SirTheory/macros1.i: SirTheory/macros1.c.i
+.PHONY : SirTheory/macros1.i
+
+# target to preprocess a source file
+SirTheory/macros1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryMacros1.dir\build.make CMakeFiles/SirTheoryMacros1.dir/SirTheory/macros1.c.i
+.PHONY : SirTheory/macros1.c.i
+
+SirTheory/macros1.s: SirTheory/macros1.c.s
+.PHONY : SirTheory/macros1.s
+
+# target to generate assembly for a file
+SirTheory/macros1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SirTheoryMacros1.dir\build.make CMakeFiles/SirTheoryMacros1.dir/SirTheory/macros1.c.s
+.PHONY : SirTheory/macros1.c.s
 
 SirTheory/string1.obj: SirTheory/string1.c.obj
 .PHONY : SirTheory/string1.obj
@@ -2249,7 +2362,7 @@ assignments/204236M.obj: assignments/204236M.c.obj
 
 # target to build an object file
 assignments/204236M.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/204236M.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest4.dir\build.make CMakeFiles/assignmentstest4.dir/assignments/204236M.c.obj
 .PHONY : assignments/204236M.c.obj
 
 assignments/204236M.i: assignments/204236M.c.i
@@ -2257,7 +2370,7 @@ assignments/204236M.i: assignments/204236M.c.i
 
 # target to preprocess a source file
 assignments/204236M.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/204236M.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest4.dir\build.make CMakeFiles/assignmentstest4.dir/assignments/204236M.c.i
 .PHONY : assignments/204236M.c.i
 
 assignments/204236M.s: assignments/204236M.c.s
@@ -2265,7 +2378,7 @@ assignments/204236M.s: assignments/204236M.c.s
 
 # target to generate assembly for a file
 assignments/204236M.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/204236M.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest4.dir\build.make CMakeFiles/assignmentstest4.dir/assignments/204236M.c.s
 .PHONY : assignments/204236M.c.s
 
 assignments/assignment1.obj: assignments/assignment1.c.obj
@@ -2291,6 +2404,30 @@ assignments/assignment1.s: assignments/assignment1.c.s
 assignments/assignment1.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignments.dir\build.make CMakeFiles/assignments.dir/assignments/assignment1.c.s
 .PHONY : assignments/assignment1.c.s
+
+assignments/assignment2.obj: assignments/assignment2.c.obj
+.PHONY : assignments/assignment2.obj
+
+# target to build an object file
+assignments/assignment2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.obj
+.PHONY : assignments/assignment2.c.obj
+
+assignments/assignment2.i: assignments/assignment2.c.i
+.PHONY : assignments/assignment2.i
+
+# target to preprocess a source file
+assignments/assignment2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.i
+.PHONY : assignments/assignment2.c.i
+
+assignments/assignment2.s: assignments/assignment2.c.s
+.PHONY : assignments/assignment2.s
+
+# target to generate assembly for a file
+assignments/assignment2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assignmentstest2.dir\build.make CMakeFiles/assignmentstest2.dir/assignments/assignment2.c.s
+.PHONY : assignments/assignment2.c.s
 
 assignments/harsagama.obj: assignments/harsagama.c.obj
 .PHONY : assignments/harsagama.obj
@@ -2819,6 +2956,54 @@ lab12/ex5.s: lab12/ex5.c.s
 lab12/ex5.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12ex5.dir\build.make CMakeFiles/lab12ex5.dir/lab12/ex5.c.s
 .PHONY : lab12/ex5.c.s
+
+lab12/pointersEx1.obj: lab12/pointersEx1.c.obj
+.PHONY : lab12/pointersEx1.obj
+
+# target to build an object file
+lab12/pointersEx1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12pointersEx1.dir\build.make CMakeFiles/lab12pointersEx1.dir/lab12/pointersEx1.c.obj
+.PHONY : lab12/pointersEx1.c.obj
+
+lab12/pointersEx1.i: lab12/pointersEx1.c.i
+.PHONY : lab12/pointersEx1.i
+
+# target to preprocess a source file
+lab12/pointersEx1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12pointersEx1.dir\build.make CMakeFiles/lab12pointersEx1.dir/lab12/pointersEx1.c.i
+.PHONY : lab12/pointersEx1.c.i
+
+lab12/pointersEx1.s: lab12/pointersEx1.c.s
+.PHONY : lab12/pointersEx1.s
+
+# target to generate assembly for a file
+lab12/pointersEx1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12pointersEx1.dir\build.make CMakeFiles/lab12pointersEx1.dir/lab12/pointersEx1.c.s
+.PHONY : lab12/pointersEx1.c.s
+
+lab12/pointersEx2.obj: lab12/pointersEx2.c.obj
+.PHONY : lab12/pointersEx2.obj
+
+# target to build an object file
+lab12/pointersEx2.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12pointersEx2.dir\build.make CMakeFiles/lab12pointersEx2.dir/lab12/pointersEx2.c.obj
+.PHONY : lab12/pointersEx2.c.obj
+
+lab12/pointersEx2.i: lab12/pointersEx2.c.i
+.PHONY : lab12/pointersEx2.i
+
+# target to preprocess a source file
+lab12/pointersEx2.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12pointersEx2.dir\build.make CMakeFiles/lab12pointersEx2.dir/lab12/pointersEx2.c.i
+.PHONY : lab12/pointersEx2.c.i
+
+lab12/pointersEx2.s: lab12/pointersEx2.c.s
+.PHONY : lab12/pointersEx2.s
+
+# target to generate assembly for a file
+lab12/pointersEx2.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab12pointersEx2.dir\build.make CMakeFiles/lab12pointersEx2.dir/lab12/pointersEx2.c.s
+.PHONY : lab12/pointersEx2.c.s
 
 lab12/unionsExercise.obj: lab12/unionsExercise.c.obj
 .PHONY : lab12/unionsExercise.obj
@@ -3862,6 +4047,8 @@ help:
 	@echo ... rebuild_cache
 	@echo ... 2darray1
 	@echo ... 2darray2
+	@echo ... SirTheoryMacroex1
+	@echo ... SirTheoryMacros1
 	@echo ... SirTheorystr1
 	@echo ... SirTheorystructex1
 	@echo ... SirTheorystructure1
@@ -3887,6 +4074,7 @@ help:
 	@echo ... assignmentsharas
 	@echo ... assignmentstest2
 	@echo ... assignmentstest3
+	@echo ... assignmentstest4
 	@echo ... function1
 	@echo ... lab10ex1
 	@echo ... lab10ex2
@@ -3909,6 +4097,8 @@ help:
 	@echo ... lab12ex3
 	@echo ... lab12ex4
 	@echo ... lab12ex5
+	@echo ... lab12pointersEx1
+	@echo ... lab12pointersEx2
 	@echo ... lab5_ex2_q1
 	@echo ... lab5_ex2_q2
 	@echo ... lab5_ex2_q3
@@ -4006,6 +4196,12 @@ help:
 	@echo ... SirTheory/function1.obj
 	@echo ... SirTheory/function1.i
 	@echo ... SirTheory/function1.s
+	@echo ... SirTheory/macroex1.obj
+	@echo ... SirTheory/macroex1.i
+	@echo ... SirTheory/macroex1.s
+	@echo ... SirTheory/macros1.obj
+	@echo ... SirTheory/macros1.i
+	@echo ... SirTheory/macros1.s
 	@echo ... SirTheory/string1.obj
 	@echo ... SirTheory/string1.i
 	@echo ... SirTheory/string1.s
@@ -4069,6 +4265,9 @@ help:
 	@echo ... assignments/assignment1.obj
 	@echo ... assignments/assignment1.i
 	@echo ... assignments/assignment1.s
+	@echo ... assignments/assignment2.obj
+	@echo ... assignments/assignment2.i
+	@echo ... assignments/assignment2.s
 	@echo ... assignments/harsagama.obj
 	@echo ... assignments/harsagama.i
 	@echo ... assignments/harsagama.s
@@ -4135,6 +4334,12 @@ help:
 	@echo ... lab12/ex5.obj
 	@echo ... lab12/ex5.i
 	@echo ... lab12/ex5.s
+	@echo ... lab12/pointersEx1.obj
+	@echo ... lab12/pointersEx1.i
+	@echo ... lab12/pointersEx1.s
+	@echo ... lab12/pointersEx2.obj
+	@echo ... lab12/pointersEx2.i
+	@echo ... lab12/pointersEx2.s
 	@echo ... lab12/unionsExercise.obj
 	@echo ... lab12/unionsExercise.i
 	@echo ... lab12/unionsExercise.s
