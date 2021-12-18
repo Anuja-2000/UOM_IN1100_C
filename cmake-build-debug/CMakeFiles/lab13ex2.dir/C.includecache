@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/lab13/ex2.c
+stdio.h
+-
+

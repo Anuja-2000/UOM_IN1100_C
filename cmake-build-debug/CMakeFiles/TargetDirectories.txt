@@ -17,6 +17,7 @@ D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untit
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab7q9.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab5_ex2_q8.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab8ex1.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab13ex1.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab7q8.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab5_ex2_q9.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab7q13.dir
@@ -73,6 +74,7 @@ D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untit
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/akilasirTheory4.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/akilasirTheory5.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/akilasirTheory6.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/akilasirTheory7.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab10ex1.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab10ex2.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab10ex3.dir
@@ -93,10 +95,18 @@ D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untit
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab12ex3.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab12ex4.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab12ex5.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab13ex2.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab13ex7.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab13ex8.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab14q1.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab14q2.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab14q3.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab14q4.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab12UnionsExercise.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab12pointersEx1.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/lab12pointersEx2.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/SirTheorystructure1.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/hackerRanktest.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/SirTheoryunionex1.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/SirTheoryMacros1.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/SirTheoryMacroex1.dir
@@ -104,5 +114,6 @@ D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untit
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/assignmentstest2.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/assignmentstest3.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/assignmentstest4.dir
+D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/pastPapersb18.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/UOM degree/L01S01/IN 1100_Programming fudamentals/Clion editor/Projects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
